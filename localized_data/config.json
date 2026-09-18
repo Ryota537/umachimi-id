@@ -5,38 +5,174 @@
     "character_system_text_dict": "character_system_text_dict.json",
     "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
     "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
+    "text_config": "text_settings.json",
     "assets_dir": "assets",
-    "extra_asset_bundle": {"windows": "includes_win", "android": "includes_android"},
+    "extra_asset_bundle": {
+        "windows": "includes_win",
+        "android": "includes_android"
+    },
     "replacement_font_name": "assets/rodinwanpakupro-umatl.otf",
 
     "plural_form": "n == 1 ? 0 : 1",
     "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
     "ordinal_types": ["$st", "$nd", "$rd", "$th"],
-    "months": ["Jan.", "Feb.", "Mar.", "Apr.", "May.", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."],
+    "months": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"],
     "month_text_format": "$(half) $(month)",
 
     "text_wrapper": 1,
     "use_text_wrapper": true,
-    "line_width_multiplier": 1.9,
+    "line_width_multiplier": 2,
 
+    "text_common_allow_overflow": false,
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
-    "text_frame_line_spacing_multiplier": 0.72,
-    "text_frame_font_size_multiplier": 0.96,
+    "text_frame_line_spacing_multiplier": 0.85,
+    "text_frame_font_size_multiplier": 0.85,
     "skill_list_item_desc_font_size_multiplier": 0.9,
     "now_loading_comic_title_ellipsis": true,
+    
+    "skill_formatting": {
+        "name_length": 16,
+        "desc_length": 22,
+        "name_short_lines": 2,
+        "name_short_mult": 0.75,
+        "name_sp_mult": 0.7
+    },
 
     "remove_ruby": true,
+    
+    "story_event_title": {
+        "line_spacing": 0.7,
+        "position_offset_y": 20
+    },
     "character_note_top_gallery_button": {
-        "text": "Career Event\n     Gallery",
-        "font_size": 38,
+        "text": "     Galeri\n  Event Karir",
+        "font_size": 41,
         "line_spacing": 0.6
     },
     "character_note_top_talk_gallery_button": {
-        "text": "     Chat\n   Gallery",
+        "text": "     Galeri\n   Obrolan",
         "font_size": 44,
         "line_spacing": 0.55
     },
 
-    "news_url": "https://hachimi.leadrdrk.com/PakaNews/"
+    "buttons_override": {
+        "character_home_top_character_card_catalog_button": {
+            "text": " ",
+            "text2": "$(anchor 4)Daftar\nKarakter",
+            "position_offset_y2": 15,
+            "position_offset_x2": 50,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_card_lv_up_button": {
+            "text": " ",
+            "text2": "$(nb)Potensial",
+            "position_offset_y2": 15,
+            "position_offset_x2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_hint_lv_up_button": {
+            "text": " ",
+            "text2": "$(nb)Hint Level",
+            "position_offset_x2": 5,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_card_limit_break_button": {
+            "text": " ",
+            "text2": "$(anchor 4)Buka\nBintang",
+            "position_offset_x2": 40,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_piece_exchange_button": {
+            "text": " ",
+            "text2": "$(anchor 4)Gudang\nPiece",
+            "position_offset_x2": 35,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_support_edit_button": {
+            "text": " ",
+            "text2": "Deck",
+            "position_offset_x2": 20,
+            "position_offset_y2": 15,
+            "font_size": 45
+        },
+        "character_home_top_support_sell_button": {
+            "text": " ",
+            "text2": "Gudang",
+            "position_offset_x2": 5,
+            "position_offset_y2": 15,
+            "font_size": 45
+        },
+        "character_home_top_support_list_button": {
+            "text": " ",
+            "text2": "$(nb)$(anchor 4)Daftar\nKartu",
+            "position_offset_x2": 20,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_trained_list_button": {
+            "text": " ",
+            "text2": "$(nb)Daftar",
+            "position_offset_x2": -10,
+            "position_offset_y2": 20,
+            "font_size": 45
+        },
+        "character_home_top_new_team_edit_button": {
+            "text": " ",
+            "text2": "Edit Tim",
+            "position_offset_x2": 15,
+            "position_offset_y2": 20,
+            "font_size": 45
+        },
+        "character_home_top_transfer_button": {
+            "text": " ",
+            "text2": "$(nb)Transfer\nRequest",
+            "position_offset_x2": 10,
+            "position_offset_y2": 20,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_succession_only_start_button": {
+            "text": "$(nb)Warisan Sekaligus",
+            "text2": " ",
+            "position_offset_x": 25,
+            "position_offset_y": 20,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_succession_only_list_button": {
+            "text": " ",
+            "text2": "$(nb)Daftar",
+            "position_offset_x2": 0,
+            "position_offset_y2": 20,
+            "font_size": 45,
+            "line_spacing": 0.6
+        }
+    },
+    
+    "gacha_buttons_override": {
+        "gacha_button_default": {
+            "text": "$(nb){0} x Pull!",
+            "position_offset_x": 60,
+            "position_offset_y": 0,
+            "font_size": 42
+        },
+        "gacha_button_daily": {
+            "text": "$(nb)1x per hari",
+            "position_offset_x": 0,
+            "position_offset_y": 0,
+            "font_size": 42
+        }
+    },
+
+    "news_url": "https://ggktm.github.io/PakaNews/"
 }

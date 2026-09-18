@@ -1,0 +1,336 @@
+{
+    "text_block_list": [
+        {
+            "text": "Suatu hari, saat melewati depan trek balap,\nsosok yang tak asing terlihat di kejauhan",
+            "name": ""
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Lomba yang dinantikan akhirnya tiba , Meek !"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Penyelenggaraan 'URA Finale' pun,\nperlahan tapi pasti semakin mendekat"
+        },
+        {
+            "text": "Kalahkan mereka, dan mulai langkah nyata menjadi Star Umamusume...!",
+            "name": "Aoi Kiryuin"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Aku mengerti.\n...Semoga berhasil!"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "choice_data_list": [
+                "Aku pastikan hari ini dia menang"
+            ],
+            "text": "...Mereka harus menang.\nKali ini tak boleh gagal...!"
+        },
+        {
+            "text": "Ada firasat yang mengusik,\nmaka kuhadiri langsung lomba Happy Meek",
+            "name": ""
+        },
+        {
+            "name": "Pengunjung A",
+            "text": "Oh, Happy Meek tampil nih!\nAku tadi sempat perhatiin, lho."
+        },
+        {
+            "name": "Pengunjung B",
+            "text": "Cuma... akhir-akhir ini hasilnya kurang oke.\nPadahal dulu sempat ngetop juga sih.."
+        },
+        {
+            "name": "Pengunjung A",
+            "text": "Hmm, apa pertumbuhannya mandek?\nAyo dong tunjukkan yang terbaik～ Trainer yang bertanggung jawab…"
+        },
+        {
+            "name": "",
+            "text": "Dan, balapan pun dimulai—\nPenyiar: \"Dari jalur dalam, Happy Meek mendorong!\nAkankah cukup? Akankah berhasil?!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Tapi, kelompok terdepan bertahan kuat!\nBagaimana dengan akselerasi Happy Meek?!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "—Pemimpin bertahan dan melewati garis finis!\nHappy Meek, kurang satu langkah lagi!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Tinggal Selangkah lagi ! , Happy Meek Lolos Jadi Pemenang !"
+        },
+        {
+            "text": "Sayangnya, Happy Meek finis di posisi ketiga.\nMemang, penampilannya tampak kurang prima…",
+            "name": ""
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Maaf, Meek.\nAku… lagi-lagi gagal membawamu menang"
+        },
+        {
+            "text": "…Tidak.\n…Ini kelemahanku sendiri",
+            "name": "Happy Meek"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Salah!!\n…Itu tidak benar , Meek !!"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Kamu adalah Umamusume yang sangat berbakat.\nKemampuan fisikmu, bahkan daya pikirmu—semuanya tinggi."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Jadi, semua ini…\nadalah tanggung jawabku sebagai Trainermu…"
+        },
+        {
+            "name": "",
+            "text": "Aoi Kiryuin yang tampak sangat terpukul,\nbahkan tak menyadari kehadiranku,\npergi bersama Happy Meek"
+        },
+        {
+            "name": "",
+            "text": "Kemudian, pada sore hari itu...."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Permisi ........～",
+            "choice_data_list": [
+                "Meek , Tumbern Sendiri ?..",
+                "Meek , Tumbern Sendiri ?.."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "………Dia tidak ada.\n"
+        },
+        {
+            "text": "…Trainerku.\n…Tidak ada di mana-mana.",
+            "name": "Happy Meek",
+            "choice_data_list": [
+                "Memang Tidak Tahu Dia Kemana ?"
+            ]
+        },
+        {
+            "text": "……Aku tidak tahu",
+            "name": "Happy Meek"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "…Trainer, selalu… hanya memikirkan aku.\n…Setiap kali bersama, selalu membicarakanku."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "………Jadi, aku tidak tahu harus berbuat apa...～"
+        },
+        {
+            "text": "Happy Meek tampak begitu murung.\nTapi memang, ini cerita yang khas dari\nTrainer Kirishien yang serius dan sangat menyayangi Umamusume binaannya",
+            "name": ""
+        },
+        {
+            "name": "",
+            "text": "Mungkinkah aku memiliki petunjuk\ntentang ke mana dia pergi…?"
+        },
+        {
+            "name": "",
+            "text": "Suatu tempat dimana Kiryuin selalu merenungkan tugasnya.... , mungkin dia mau kesana"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "FuFu....Meek, kelihatan senang.\nDia suka sekali akuarium"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "…<username>-san?!",
+            "choice_data_list": [
+                "(Jangan-jangan…)"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Dengan seberkas harapan, aku segera\nbergegas menuju akuarium bersama Happy Meek"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Eh... Meek!?\nBahkan Trainer <username> juga ada di sini!?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Trainer.\n...Aku mencarimu."
+        },
+        {
+            "text": "Meek....",
+            "name": "Aoi Kiryuin"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "...Maafkan aku, aku membuatmu khawatir.\nSebagai Trainer, malah menjadi sumber stres untuk Umamusume binaanku."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Aku... benar-benar, Trainer yang tidak berguna."
+        },
+        {
+            "text": "…………！",
+            "name": "Happy Meek"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Aku juga telah menyusahkan Trainer <username>…\nAku benar-benar menyesal.",
+            "choice_data_list": [
+                "Kenapa datang ke sini sendirian?"
+            ]
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "...Aku ingin memikirkannya sekali lagi.\nApa yang seharusnya kulakukan sebagai seorang Trainer."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Tapi, semakin kupikirkan,\nsemakin tak kuasa menahan rasa malu pada keterbatasanku sendiri...!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": ".... Fuhhh"
+        },
+        {
+            "text": "Tidak ada celah untuk meragukan keahlian Aoi Kiryuin. Pengetahuan mendalamnya, berdasarkan 'Catatan Ilmiah Trainer' turun-temurun, begitu unggul hingga tiada tanding",
+            "name": ""
+        },
+        {
+            "name": "",
+            "text": "Kasih sayangnya untuk para Umamusume tak terukur.\nMeski demikian, andai ada ruang kosong dalam dirinya—",
+            "choice_data_list": [
+                "Pernahkah kau mengungkapkan masalahmu pada Meek ?"
+            ]
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Hah? M-membicarakan masalahku?\nDari Trainer ke Umamusume binaannya?"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "A-aku tidak mungkin melakukannya.\nMenyusahkan Meek dengan urusanku sendiri—",
+            "choice_data_list": [
+                "Mereka juga peduli padamu, Trainer"
+            ]
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Y...Ya?～～",
+            "choice_data_list": [
+                "Kamu yakin beban ini tanggung sendirian?"
+            ]
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "api... aku tak bisa.\nMemperlihatkan sisi lemahku pada Meek"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Bukan, itu.\n\n"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "...Meek?～ (mata berkaca-kaca)"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Trainerku...\n...Tidaklah seburuk itu!!"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "...............!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Aku mau mengobrol dengan Trainerku.\n...Tentang banyak hal, bukan cuma tentangku."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Aku pun ingin memahami Trainerku lebih dalam."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Aku juga ingin memikirkan Trainerku.\n...Karena aku ingin kita berdua berjuang bersama."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Meek .......～"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Apa yang harus kulakukan."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Seharusnya aku yang mendukungmu,\ntapi malah terjebak dalam keegoisanku sendiri, hingga justru didukung.."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Aku tak tahu harus berkata apa...\n\n"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Harus bilang apa ya...?\n...Mmm..."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Misalnya... menu andalanku.\n...Atau... spesies ubur-ubur favorit. ...Apa boleh begitu?"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Ja, jangan begitu... fufu!\nBukan begitu caranya."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Fufufu."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..Tapi aku ingin mendengarnya.\nKarena aku ingin terus... berjuang bersama."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "……！"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "……Ya!"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "..Trainer <username>.\nRupanya... aku masih perlu banyak belajar darimu."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Ahhh Iya juga...."
+        },
+        {
+            "text": "Meek, permisi.\nBolehkah aku memintamu menunggu di tempat itu dulu?",
+            "name": "Aoi Kiryuin"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Sebentar saja?"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Fufu, ya, sebentar saja.\nAku akan segera menyusul"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Baiklah..."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Trainer <username>.\nSekali lagi... sungguh, terima kasih banyak."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Kalau begitu... jika berkenan, maukah kau menerima 'Buku Putih Trainer'-ku?"
+        },
+        {
+            "name": "Aoi Kiryuin"
+        }
+    ]
+}

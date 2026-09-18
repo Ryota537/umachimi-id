@@ -1,81 +1,41 @@
-## 🌸 UmaChimiID ( Hachimi Bahasa Indonesia + Local Slang ) 🇮🇩
-Selamat datang di repositori **Umachimi**! 🎉  
-Di sini kamu bisa kontribusi berbagai hal seputar **terjemahan, resource, dan dokumentasi** untuk project Hachimi versi Indonesia.
+## 🍯 Hachimi Indonesia Server Jepang
+[![Server Discord Komunitas](https://dcbadge.limes.pink/api/server/https://discord.gg/4zvW4VhrYV)](https://discord.gg/4zvW4VhrYV)
 
----
+Selamat datang di repositori **Umachimi-ID**! 🎉🇮🇩
 
-## 📑 Daftar Isi
-- 📌 [Tentang Proyek](#-tentang-proyek)  
-- 🚀 [Fitur Utama](#-fitur-utama)  
-- 📂 [Struktur Direktori](#-struktur-direktori)  
-- 🛠️ [Cara Instalasi](#%EF%B8%8F-cara-instalasi)  
-- 📝 [Catatan Rilis](#-catatan-rilis)  
-- 🤝 [Kontribusi](#-kontribusi)  
-- 📜 [Lisensi](#-lisensi)  
+**Umachimi** adalah proyek translasi komunitas untuk sebuah game simulasi gadis kuda cantik dengan terjemahan Bahasa Indonesia berbasis aplikasi **Hachimi**. 
 
----
+<img src="docs\SS1.webp" width="30.3%" /> <img src="docs\SS2.webp" width="30%" /> <img src="docs\SS3.webp" width="30.01%" />
 
-## 📌 Tentang Proyek
-Proyek ini bertujuan untuk menyediakan **versi Indonesia dan daerah** dari berbagai konten di [Hachimi](https://hachimi.leadrdrk.com/).  
-Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem, hingga detail lain dalam bahasa yang lebih familiar 🇮🇩✨.  
+Proyek ini dibuat oleh para penggemar konten lokalisasi sekaligus bertujuan untuk membantu para pemain yang terkendala bahasa dengan menambahkan terjemahan **Bahasa Indonesia** di berbagai konten dan aset dalam game UM:PD.
 
----
+Seluruh kemajuan translasi yang dikerjakan para kontributor dapat dilihat di [Status Translasi](https://github.com/Xmatography/umachimi-id/wiki/Status-Translasi) dan [Discord Server](https://discord.gg/4zvW4VhrYV)
 
-## 🚀 Fitur Utama
-✨ **Terjemahan Lengkap**: UI, skill, dan deskripsi  
-📖 **Dokumentasi Rapi**: File JSON tersusun dengan baik  
-🔍 **Optimisasi Nama**: Supaya lebih gampang dikenali  
-⚡ **Update Berkala**: Menyesuaikan versi terbaru  
+## ▶️ Instalasi
+- Unduh dan pasang [Hachimi Edge](https://hachimi.noccu.art/id/) (PC & Android) kemudian ikuti langkah-langkah instalasinya [disini](https://hachimi.noccu.art/id/docs/hachimi/getting-started).
 
----
+  (*Note: Khusus untuk repo ini, disarankan menggunakan Hachimi Edge versi [fork ini](https://github.com/Rekoiru/Hachimi-Edge/releases)).
+  
+- Buka menu `Setup Pertama Kali` kemudian pilih repositori Bahasa Indonesia.
 
-## 📂 Struktur Direktori
-```
-📁 root
- ┣ 📂 assets        # File grafis, ikon, dll
- ┣ 📂 localize_data # Main Project
- ┣ 📂 docs          # Dokumentasi tambahan
- ┣ 📜 README.md     # File index ini
- ┣ 📜 file.json     # File JSON Translate
-```
+- Enjoy 🎉
 
----
-
-## 🛠️ Cara Instalasi
-1. Download Reponya 
-   ``` Blm bisa download otomatis
-2. Masuk ke folder android/media/jp.co.cygamesumamusume/hachimi 
-   ``
-   Reload Game dan Pilih English > UmachimiID / recplace loclaize_data dari repo yang di download
-   ```
-3. Enjoy Playing 🚀  
-
----
-
-## 📝 Catatan Rilis
-📌 **Versi Alpha 0.1** – Progress awal, UI 20%, skill deskripsi full  
-📌 **Versi Alpha 0.2** – Optimisasi nama skill + dokumentasi  
-
-*(lihat changelog lengkap di [Release Notes](./CHANGELOG.md))*  
-
----
 
 ## 🤝 Kontribusi
-Kami terbuka untuk kontribusi! 🙌  
-Kamu bisa bantu lewat:
-- Koreksi terjemahan 📝  
-- Tambah dokumentasi 📚  
-- Share ide kreatif 🎨  
 
-Baca panduan di [CONTRIBUTING.md](./CONTRIBUTING.md)  
+Kami sangat terbuka untuk kamu yang ingin ikut berkontribusi! 🙌  
+Kamu bisa bantu membangun proyek dengan cara:
+- ✅ Menambah konten terjemahan baru melalui **Pull Request** (Baca dokumentasi tutorial kontribusi di [Wiki](https://github.com/Xmatography/umachimi-id/wiki) dan [Panduan Translasi](https://hachimi.noccu.art/id/docs/translation-guide/welcome).).
 
----
+- 📝 Memberi kritik, saran, dan koreksi terjemahan ke [server Discord komunitas](https://discord.gg/4zvW4VhrYV).
 
-## Contributor ❤
-@Xmatography
-@Vin..Tar
-@MisuMasu
+- 💝 [Berdonasi via QRIS](https://umachimi.carrd.co) sebagai bentuk dukungan agar proyek ini terus berjalan dan meningkatkan kualitasnya. 
 
-## 📜 Lisensi
-Repo ini menggunakan lisensi **MIT** 📄  
-Silakan gunakan dan modifikasi sesuai kebutuhan.  
+## 💝 Terima Kasih
+Terima kasih kepada [Hachimi Edge](https://hachimi.noccu.art/id/) dan [UmaTL](https://github.com/UmaTL/hachimi-tl-en) yang telah menjadi wadah agar proyek ini dapat terlaksana, dan terima kasih juga kepada para [kontributor](https://github.com/Xmatography/umachimi-id/graphs/contributors?all=1) yang telah mendedikasikan waktu mereka untuk ikut berkontribusi mengembangkan proyek ini!
+
+## Kontributor
+
+<a href="https://github.com/Xmatography/umachimi-id/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Xmatography/umachimi-id" />
+</a>

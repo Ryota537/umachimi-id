@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Sepulang sekolah, pas lagi jalan ke lapangan latihan,\naku ketemu sama satu gadis kuda yang aku kenal\ndan satu lagi yang belum pernah aku lihat."
+      "text": "Sepulang sekolah, pas lagi jalan ke lapangan latihan,\naku ketemu sama satu Umamusume yang aku kenal\ndan satu lagi yang belum pernah aku lihat."
     },
     {
       "text": "Uwaaaaaaaaah!! Uhyaaaaaaa!!",
@@ -33,7 +33,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Dan orang ini udah pernah ngelatih beberapa gadis kuda kelas G1.\nTrainernya tim ＜Sirius＞.",
+      "text": "Dan orang ini udah pernah ngelatih beberapa Umamusume kelas G1.\nTrainernya tim ＜Sirius＞.",
       "name": "Silence Suzuka"
     },
     {
@@ -64,7 +64,7 @@
       "text": "Uwaaaah! Di-scout! Kayak artis gitu!\nAku bakal berusaha keras biar bisa di-scout!",
       "name": "Special Week",
       "choice_data_list": [
-        "<size=41>Kamu ini, gimana ya bilangnya… semangat banget</size>"
+        "Gimana ya bilangnya… semangat banget"
       ]
     },
     {
@@ -83,7 +83,15 @@
       "name": "<username>"
     },
     {
+      "text": "Kayaknya agak kurang sopan juga sih.",
+      "name": "<username>"
+    },
+    {
       "text": "Beberapa hari setelah itu, pas di lomba Seleksi-"
+    },
+    {
+      "text": "Yo, lagi nonton balapan ini?",
+      "name": "<username>"
     },
     {
       "text": "Yo, lagi nonton balapan ini?",
@@ -98,10 +106,14 @@
       "name": "<username>"
     },
     {
-      "text": "Biasanya gadis kuda yang masuk Tracen Academy belajar dulu dasar-dasarnya,\nbaru ikut lomba Seleksi di waktu yang pas, tapi-"
+      "text": "Biasanya Umamusume yang masuk Tracen Academy belajar dulu dasar-dasarnya,\nbaru ikut lomba Seleksi di waktu yang pas, tapi-"
     },
     {
-      "text": "Kayaknya dia buru-buru ikut lomba biar bisa gabung tim yang sama kayak kamu secepatnya.",
+      "text": "Kayaknya dia buru-buru ikut lomba biar bisa \ngabung tim yang sama kayak kamu secepatnya.",
+      "name": "<username>"
+    },
+      {
+      "text": "Kayaknya dia buru-buru ikut lomba biar bisa \ngabung tim yang sama kayak kamu secepatnya.",
       "name": "<username>"
     },
     {
@@ -109,10 +121,10 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Mimpinya ikut Twinkle Series,\ndan jadi \"Gadis Kuda No.1 di Jepang\".",
+      "text": "Mimpinya ikut Twinkle Series,\ndan jadi \"Umamusume No.1 di Jepang\".",
       "name": "Silence Suzuka",
       "choice_data_list": [
-        "\"Gadis Kuda No.1 di Jepang\"…?"
+        "\"Umamusume No.1 di Jepang\"…?"
       ]
     },
     {
@@ -124,7 +136,10 @@
     },
     {
       "text": "Entah kenapa, rasanya kamu ngomong gitu karena kamu sendiri\nbelum bener-bener nemuin jawaban dari perasaanmu.",
-      "name": "<username>"
+      "name": "<username>",
+            "choice_data_list": [
+                "Umamusume No 1 Jepang !!!"
+            ]
     },
     {
       "text": "Eh…?",
@@ -135,7 +150,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Lomba Seleksi, ronde ke-3.\nSemua gadis kuda peserta udah siap di gerbang start.",
+      "text": "Lomba Seleksi, ronde ke-3.\nSemua Umamusume peserta udah siap di gerbang start.",
       "name": "Komentator"
     },
     {
@@ -143,7 +158,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Nomor 6, Special Week!\nBuat nutupin start telatnya, dia langsung masuk Long Spurt dari tikungan ketiga!",
+      "text": "Nomor 6, Special Week!\nBuat nutupin start telatnya, dia langsung masuk \nLong Spurt dari tikungan ketiga!",
       "name": "Komentator"
     },
     {
@@ -158,8 +173,12 @@
       "text": "Dia punya tekad gede banget buat menang,\nkok aku bisa nggak nyadar ya?!\nDan ekspresinya yang polos itu… dia bisa aja menang!",
       "name": "<username>"
     },
+      {
+      "text": "Dia punya tekad gede banget buat menang,\nkok aku bisa nggak nyadar ya?!\nDan ekspresinya yang polos itu… dia bisa aja menang!",
+      "name": "<username>"
+    },
     {
-      "text": "Kalau lihat cara dia lari,\nsetelah pindah ke Tokyo buat ngejar mimpinya,\nmungkin aja dia beneran bisa ngewujudin mimpi itu…\ntapi-"
+      "text": "Kalau lihat cara dia lari,setelah pindah ke Tokyo buat ngejar mimpinya,\nmungkin aja dia beneran bisa ngewujudin mimpi itu…\ntapi-"
     },
     {
       "text": "…Eh!? Ada apa dengan Special Week?!\nDia berhenti dan cuma berdiri di situ.\nLoh, dia lagi dadah-dadah ke siapa?!",
@@ -202,7 +221,7 @@
       "name": "Special Week"
     },
     {
-      "text": "Jadi kamu ke sini gara-gara kehabisan opsi!!\nAku bakal bikin kamu jadi \"Gadis Kuda Paling Sial di Jepang\"!",
+      "text": "Jadi kamu ke sini gara-gara kehabisan opsi!!\nAku bakal bikin kamu jadi \"Umamusume Paling Sial di Jepang\"!",
       "name": "Gold Ship"
     },
     {

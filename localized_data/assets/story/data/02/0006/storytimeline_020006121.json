@@ -26,7 +26,7 @@
       "name": "Gold Ship"
     },
     {
-      "text": "Iya, liat dia gitu bikin keliatan banget kalau dia Uma Musume yang serius. \nDan pastinya kuat juga.",
+      "text": "Iya, liat dia gitu bikin keliatan banget kalau dia Umamusume yang serius. \nDan pastinya kuat juga.",
       "name": "Mejiro McQueen"
     },
     {
@@ -38,7 +38,7 @@
       "name": "Gold Ship"
     },
     {
-      "text": "Sekarang harusnya dia lagi sama Trainer-san, ngobrolin persiapan buat lomba benerannya.",
+      "text": "Sekarang harusnya dia lagi sama Trainer-san,\n ngobrolin persiapan buat lomba benerannya.",
       "name": "Mejiro McQueen"
     },
     {
@@ -46,7 +46,11 @@
       "name": "Special Week"
     },
     {
-      "text": "Betul, selain mikirin stamina sendiri, penting juga nebak gimana lawan pake stamina mereka.",
+      "text": "Betul, selain mikirin stamina sendiri, penting \njuga nebak gimana lawan pake stamina mereka.",
+      "name": "<username>"
+    },
+    {
+      "text": "Betul, selain mikirin stamina sendiri, penting \njuga nebak gimana lawan pake stamina mereka.",
       "name": "<username>"
     },
     {
@@ -77,7 +81,11 @@
       "name": "Mejiro McQueen"
     },
     {
-      "text": "McQueen kan udah menang [Spring Tenno Sho] berturut-turut, jadi silakan banget gabung.",
+      "text": "McQueen kan udah menang \n[Spring Tenno Sho] berturut-turut, jadi silakan banget gabung.",
+      "name": "<username>"
+    },
+    {
+      "text": "McQueen kan udah menang \n[Spring Tenno Sho] berturut-turut, jadi silakan banget gabung.",
       "name": "<username>"
     },
     {
@@ -109,7 +117,7 @@
       "name": "Special Week"
     },
     {
-      "text": "Haaah~ strategi lomba, posisi, irama... berasa belajar seumur hidup deh.",
+      "text": "Haaah～ strategi lomba, posisi, irama... berasa belajar seumur hidup deh.",
       "name": "Special Week"
     },
     {
@@ -122,16 +130,16 @@
     },
     {
       "text": "Kami dukung kamu kok, jadi menangkan lombanya!",
-      "name": "Gadis kuda B"
+      "name": "Umamusume B"
     },
     {
       "text": "Nggak kerasa, semua tim udah ngumpul buat dukung Special Week."
     },
     {
-      "text": "Ngedukung Uma Musume biar bisa raih mimpinya― semua punya perasaan yang sama. \nAku bener-bener seneng banget."
+      "text": "Ngedukung Umamusume biar bisa \nraih mimpinya― semua punya perasaan yang sama. \nAku bener-bener seneng banget."
     },
     {
-      "text": "Oh iya, Trainer-san! Aku tadi ambil ini pas ke ruang pelatih!",
+      "text": "Oh iya, Trainer-san! Aku tadi ambil ini pas ke ruang Trainer!",
       "name": "Winning Ticket"
     },
     {
@@ -200,11 +208,11 @@
     },
     {
       "text": "Aku juga, abis liat lomba itu langsung tergerak banget, makanya aku gabung tim!",
-      "name": "Gadis kuda A"
+      "name": "Umamusume A"
     },
     {
       "text": "Siapa sangka waktu itu McQueen-san masih sendirian, tapi sejak itu tim makin gede～",
-      "name": "Gadis kuda B"
+      "name": "Umamusume B"
     },
     {
       "text": "...buat Rice juga, [Spring Tenno Sho] itu lomba penting banget.",
@@ -232,7 +240,7 @@
       "text": "Itu memang target McQueen, tapi juga kemenangan G1 pertamaku."
     },
     {
-      "text": "Sebagai penerus ＜Sirius＞, itu pertama kalinya aku bisa bantu Uma Musume \nyang aku latih buat meraih mimpinya."
+      "text": "Sebagai penerus ＜Sirius＞, itu pertama kalinya aku bisa bantu Umamusume \nyang aku latih buat meraih mimpinya."
     },
     {
       "text": "Buatku juga, itu lomba penuh kenangan seumur hidup.",
@@ -251,11 +259,11 @@
       "name": "Special Week"
     },
     {
-      "text": "Umm, Trainer-san. Kalau aku menang di [Spring Tenno Sho], kamu bakal seneng nggak?",
+      "text": "Umm, Trainer-san. Kalau aku \nmenang di [Spring Tenno Sho], kamu bakal seneng nggak?",
       "name": "Special Week"
     },
     {
-      "text": "Tentu aja. Itu kan target musim semi kamu, jadi aku pengen Spe bisa menang―",
+      "text": "Tentu aja. Itu kan target musim \nsemi kamu, jadi aku pengen Spe bisa menang―",
       "name": "<username>"
     },
     {
@@ -279,7 +287,7 @@
       "name": "Special Week"
     },
     {
-      "text": "Makanya, sama kayak semua di sini, aku pengen menang di [Spring Tenno Sho] sebagai anggota tim!",
+      "text": "Makanya, sama kayak semua di sini, aku pengen \nmenang di [Spring Tenno Sho] sebagai anggota tim!",
       "name": "Special Week"
     },
     {
@@ -318,7 +326,7 @@
       "text": "Anak dari Hokkaido yang dulu masih polos, \nsekarang tatapannya makin mantap dan kuat."
     },
     {
-      "text": "Dia makin deket sama mimpinya jadi 'Uma Musume nomor 1 Jepang'― \nngeliatnya aja bikin aku yakin.",
+      "text": "Dia makin deket sama mimpinya jadi 'Umamusume nomor 1 Jepang'― \nngeliatnya aja bikin aku yakin.",
       "choice_data_list": [
         "Tolong menang ya, Spe!",
         "Tolong menang ya, Spe!"

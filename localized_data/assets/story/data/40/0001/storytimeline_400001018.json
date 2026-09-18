@@ -1,0 +1,194 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Suatu hari. Melihat ladang di dalam akademi ramai, saat kumengintip ke sana......"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ketua...!!!!!!\nLagi-lagi pakai uang pribadi, ya!?\n\n"
+        },
+        {
+            "text": "Itu kebun besar di seberang sana apa sih!\nMau diapakan itu～!",
+            "name": "Tazuna Hayakawa"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Tahan, tahan!! Tunggu dulu Tazuna!!\nIni punya alasan yang mendalaaam banget, tahu!?"
+        },
+        {
+            "name": "Tazuna Hayakawa ",
+            "text": "…………Baiklah, saya dengar～"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "\"Begini! Untuk penyelenggaraan『URA Finale』, kupikir kita butuh sesuatu yang bisa memeriahkan venue"
+        },
+        {
+            "text": "\"Kalau bicara lintasan balap, berarti makanan khas lintasan balap!\nKombinasi makanan enak dan menonton balapan itu spesial banget!",
+            "name": "Direktur Akikawa"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Tapi bukan cuma makanan enak biasa, harus punya keunikan yang jadi bahan pembicaraan"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Karena itulah! Aku bikin kebun besar,\ndan rencananya mau nanam『Wortel Cap Tracen』!!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "..Saya mengerti perasaan Ketua.\nTidak, kalau cuma perasaannya, saya selalu paham."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Tapi!! Caranya yang !!...........\nItu masalahnya～～～!!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Gyaa! Tazuna!\nKasihan! Kasihan～～～～!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "..Ehem.\nTrainer, ternyata ada di sini ya.",
+            "choice_data_list": [
+                "Iya , Ya...."
+            ]
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Ampun...\nMemperlihatkan sisi yang memalukan...!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "..Topik yang bagus!!\nKelihatannya kamu sedang berusaha keras!!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Namun—hmm, masih kurang sedikit.\nSepertinya jumlah penggemar masih sulit bertambah."
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Tapi! Aku puji kerja keras kalian!!\nKe depannya, teruslah aktif ikut balapan,\ndan dapatkan lebih banyak penggemar!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Lancar! Hasilnya bagus,\ndan penggemar juga terus bertambah banyak!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Ke depannya, teruslah berjuang untuk prestasi lebih tinggi, dan targetkan partisipasi di『URA Finale』!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Luar biasa! Prestasi yang jauh melebihi ekspektasi! Pertumbuhan jumlah penggemar juga luar biasa!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Partisipasi di『URA Finale』sudah dinantikan. Teruskan seperti ini, aku berharap yang terbaik!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Ngomong-ngomong soal berusaha keras—"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Semuanya, terima kasih atas kerja kerasnya"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Begitu Ya～...."
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Wah !, Kiryuin ! Meek Juga !\nKebetulan! Kami baru saja membicarakan kalian!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "<username>Trainer tentu saja,\ntapi perkembangan kalian juga sangat pesat! Luar biasa!"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Terima kasih banyak, Direktur Akikawa."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Kami, berkat Trainer <username>...\nsudah bulat tekad kami",
+            "choice_data_list": [
+                "Tekad ?"
+            ]
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Iya. Bersama-sama merasakan kegelisahan, bersama-sama melangkah,\nberdua mengincar puncak—itu tekad kami."
+        },
+        {
+            "name": "Happy Meek",
+            "text": ".Akan menang. ...Akan membuktikan.\n...Trainer saya, hebat."
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Saya juga akan maju lebih dari sebelumnya untuk memberikan\nkehormatan tertinggi pada Meek"
+        },
+        {
+            "name": "Happy Meek",
+            "text": ".Menguasai『URA Finale』.\n...Itu tujuan kami berdua."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "……Ei ei ooooo～"
+        },
+        {
+            "name": "Aoi Kiryuin",
+            "text": "Haha , Ei ei ooo～"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": ".Ah. Semuanya, ternyata ada di sini."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Halo. Boleh minta waktu sebentar?"
+        },
+        {
+            "text": "Oh, Otonashi-kun!\nTentu boleh, ada apa?",
+            "name": "Direktur Akikawa"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Haha...\nSebenarnya, ada yang ingin saya perlihatkan."
+        },
+        {
+            "name": "",
+            "text": "Dengan senyuman itu, Reporter Otonashi memperlihatkan artikel『URA Finale』 yang diunggah di web dan—"
+        },
+        {
+            "name": "",
+            "text": "Komentar yang mewakili suara harapan dari\njumlah penggemar yang luar biasa banyaknya!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Wah... waaah～!!\nIni...!!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Berkat kegiatan kalian,\n『URA Finale』menunjukkan antusiasme yang sangat tinggi."
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Terharu...!!\nPanggungnya mulai terbentuk...!!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Pasti!!\n『URA Finale』akan sukses!!"
+        },
+        {
+            "name": "",
+            "text": "Panggung bagi semua Umamusume untuk bersinar『URA Finale』—"
+        },
+        {
+            "name": "",
+            "text": "Menuju penyelenggaraannya, perasaan semakin membara...!"
+        }
+    ]
+}

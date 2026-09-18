@@ -27,7 +27,7 @@
     },
     {
       "name": "Siswi B",
-      "text": "Apa nggak terlalu berat buat Taishin-chan?\nJadi Uma Musume di Tracen Academy."
+      "text": "Apa nggak terlalu berat buat Taishin-chan?\nJadi Umamusume di Tracen Academy."
     },
     {
       "name": "Narita Taishin",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Siswi B",
-      "text": "Padahal kita bukan Uma Musume,\nrasanya aja udah bisa ngalahin Taishin-chan kalo lari!"
+      "text": "Padahal kita bukan Umamusume,\nrasanya aja udah bisa ngalahin Taishin-chan kalo lari!"
     },
     {
       "name": "Siswi A",
@@ -123,18 +123,18 @@
       "text": "Yeah! Oke～～! Semangatku lagi terbakar～～!!!!"
     },
     {
-      "name": "Hayakawa Tazuna",
+      "name": "Tazuna Hayakawa",
       "text": "Ah, Trainer-san dan Winning Ticket-san.\nKebetulan, kalian mau latihan ya?"
     },
     {
       "text": "Iya, memangnya ada apa?"
     },
     {
-      "name": "Hayakawa Tazuna",
+      "name": "Tazuna Hayakawa",
       "text": "Soalnya, kayaknya sekarang ada orang-orang\n yang kumpul di depan sekolah."
     },
     {
-      "name": "Hayakawa Tazuna",
+      "name": "Tazuna Hayakawa",
       "text": "Sisa beberapa hari lagi menuju “SatsukiShou”,\nkalau sampai ganggu latihan kan jadi repot,\nmakanya aku mau jemput kalian."
     },
     {
@@ -145,7 +145,7 @@
       "text": "Ohh, ayo-ayo! Aku nggak bisa nolak orang-orang yang dukung aku\natau wartawan yang datang wawancara!"
     },
     {
-      "name": "Hayakawa Tazuna",
+      "name": "Tazuna Hayakawa",
       "text": "Eh? Tapi, katanya kamu mau latihan…"
     },
     {
@@ -246,7 +246,12 @@
       "text": "Waaah～～! Balapan klasik aja bikin gugup cuma dari suaranya～～!!"
     },
     {
-      "text": "Balapan klasik, yang terbatas pada Derby, adalah yang paling bergengsi."
+      "text": "Balapan klasik, yang terbatas pada Derby, adalah yang paling bergengsi.",
+            "name": "<username>"
+    },
+    {
+      "text": "Balapan klasik, yang terbatas pada Derby, adalah yang paling bergengsi.",
+            "name": "<username>"
     },
     {
       "text": "Latihanmu udah cukup dan kondisi badanmu juga bagus.\nTinggal lari sekencang mungkin buat rebut kejayaan!"
@@ -308,7 +313,7 @@
     },
     {
       "name": "Komentator",
-      "text": "Semua Uma Musume udah masuk gerbang!\nBalapan klasik putaran pertama, “SatsukiShou”…\nSekarang, dimulai!"
+      "text": "Semua Umamusume udah masuk gerbang!\nBalapan klasik putaran pertama, “SatsukiShou”…\nSekarang, dimulai!"
     }
   ]
 }

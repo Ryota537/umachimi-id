@@ -1,176 +1,182 @@
 {
-    "no_wrap": true,
+    "title": "Seperti Berenang dalam Nebula",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "………",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Jika saja kamu disini…</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Kita bisa saja menghabiskan waktu bersama.</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Tapi, aku tahu bahwa kamu selalu ada didalamku,\nyang takkan pernah menghilang.</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Walau aku tak bisa dengar suaramu, tak bisa melihat tubuhmu, \naku masih bisa merasakanmu.</i> <i>Aku bisa merasakan pikiranmu.</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Bahkan dibawah langit bintang berkilau ini, Aku tahu kamu―</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Kami menantikan kedatangan anda lagi.\nProyeksi berikutnya akan dimulai pada…",
-            "name": "Siaran"
-        },
-        {
-            "text": "Planetarium. Aku tahu dia suka bintang, jadi aku datang kesini untuk \nmempelajari sesuatu yang bisa kami perbincangkan.",
-            "choice_data_list": [
-                "Cantiknya..."
-            ]
-        },
-        {
-            "text": "Ternyata aku menikmatinya. Aku putuskan untuk belajar tentang \nbintang, jadi aku ke toko suvenir mencari buku bergambar, lalu.."
-        },
-        {
-            "text": "Ah…",
             "name": "Admire Vega",
-            "choice_data_list": [
-                "Ayabe datang juga?"
-            ]
+            "text": "………"
         },
         {
-            "text": "Aku selalu datang kesini...\nTrainer-san sendiri ngapain?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Kamu mau lihat bintang?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Admire Vega bertanya padaku.\nLangka sekali dia memulai percakapan.",
-            "choice_data_list": [
-                "<size=41>Aku pengen belajar soal bintang.</size>"
-            ]
-        },
-        {
-            "text": "Kenapa…? Kamu tertarik dengan bintang?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Percakapannya masih jalan, dong! Aku \ntak boleh menyiakannya. Aku perlu memikirkan hal lucu…",
-            "choice_data_list": [
-                "Soalnya aku suka Ayabe!"
-            ]
-        },
-        {
-            "text": "…Apa?",
             "name": "Admire Vega",
+            "text": "<i>(……Andai saja, kamu ada disini)</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Sudah berkali-kali aku terus memikirkan hal itu)</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Pasti, mulai saat ini dan seterusnya. Kau akan selalu hidup di dalam diriku, dan tak akan pernah sirna)</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Karena aku selalu merasakannya. Suara tanpa wujud, bayangan yang tak kasat mata, dan seluruh perasaan yang teramat berharga ini)</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Bahkan dibawah langit bintang buatan ini pun, kepadamu――)</i>"
+        },
+        {
+            "name": "Pengumuman",
+            "text": "\"Kalau begitu... Kami menantikan kedatangan anda lagi. \nProyeksi berikutnya akan dimulai pada――\""
+        },
+        {
+            "name": "",
+            "text": "――Planetarium. Mengetahui bahwa Admire Vega menyukai bintang, jadi aku datang ke sini dengan harapan bisa mendapat bahan obrolan walau sedikit, tapi……",
+            "choice_data_list": [
+                "Cantiknya……"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Ternyata lebih menyenangkan dari yang kubayangkan. Mumpung di sini, aku mencoba belajar lebih banyak tentang bintang, lalu saat sedang mencari buku ensiklopedia di toko cenderamata gedung ini——"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Ah.",
+            "choice_data_list": [
+                "Ayabe di sini juga rupanya."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Aku memang selalu datang kesini. Trainer-san sendiri ngapain?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hanya ingin melihat bintang saja?"
+        },
+        {
+            "name": "",
+            "text": "Admire Vega bertanya padaku. \n……Percakapan bisa berlanjut begini, sungguh langka sekali.",
+            "choice_data_list": [
+                "Aku pengen belajar soal bintang."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Kenapa? Kamu tertarik dengan bintang?"
+        },
+        {
+            "name": "",
+            "text": "Ternyata benar, percakapannya masih jalan! Aku tak boleh menyia-nyiakan kesempatan ini. Aku harus mengatakan ucapan yang pas――",
+            "choice_data_list": [
+                "Soalnya aku menyukai Ayabe!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…………Hah?",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
-            "text": "K-Kamu...ngomong apa, sih?",
             "name": "Admire Vega",
+            "text": "……K-Kamu ...ngomong apa, sih?",
             "choice_data_list": [
-                "<size=37>Ah, maksudku bintang! Bintangnya!</size>"
+                "<size=41>Ah, maksudku…… bintang! Bintangnya!</size>"
             ]
         },
         {
-            "text": "Aku malah mengatakan hal aneh karena terburu-buru. Aku langsung \nmembenarkannya, harusnya \"Karena kamu suka bintang.\""
-        },
-        {
-            "text": "Ah… begitu, ya. Mikir dulu kalau mau ngomong.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Tapi, cuma karena aku suka bintang, \nbukan berarti kamu harus suka juga, kan?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Aku paham. Karena kamu Trainer-ku,\nkamu berusaha mendekatiku.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Tapi...aku tidak mau dan tidak butuh.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Sudah selalu kukatakan, aku lebih suka sendiri. Aku tak butuh teman, tak \nbutuh dihibur, dan bersikap baik padaku.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Balapan dan kemenangan adalah beban yang harus kutanggung, \nbukan beban orang lain. Selain itu, dia… adikku…",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Menggantikanku untuk meninggal.",
-            "name": "Admire Vega"
+            "name": "",
+            "text": "Aku malah panik dan mengatakan hal aneh. Aku pun buru-buru mengoreksinya, maksudku \"Karena ayabe menyukai bintang\""
         },
         {
             "name": "Admire Vega",
+            "text": "……Hah. Begitu, ya. Lain kali dipikir dulu kalau mau ngomong."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tapi…… hanya karena aku menyukai bintang, bukan berarti kamu harus suka juga, kan?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku paham. Karena sebagai seorang Trainer, kamu sedang berusaha mendekatiku."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Tapi, aku tidak mau dan tidak butuh."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sudah kubilang berkali-kali…… aku lebih suka sendiri. \nAku tak butuh teman, dihibur, atau bersikap baik padaku."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Berlari dan menang adalah hal yang menjadi tanggunganku. \nKarena anak itu…… adik perempuanku, tidak lain adalah――"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sebab dia meninggal, demi menggantikanku."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Jadi tolong, tidak usah memikirkanku lagi.",
             "choice_data_list": [
-                "<size=34>Aku secara egois cuma pengen dekatin kamu.</size>"
-            ],
-            "text": "Jadi, tidak usah pikir soal aku."
+                "<size=40>Aku mendekat atas kemauanku sendiri, kok</size>"
+            ]
         },
         {
-            "text": "Masih saja?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Apapun kamu katakan, balasanmu\ntetap sama...",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "…………。\nAku pulang saja...",
             "name": "Admire Vega",
+            "text": "…… Lagi-lagi, balasan itu."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Apapun yang kukatakan, balasanmu selalu begitu……"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Aku, mau pulang saja.",
             "choice_data_list": [
                 "Ah, kalau begitu, kita――"
             ]
         },
         {
-            "text": "Kamu mau membeli buku, kan?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Kamu mau membeli buku, kan?"
         },
         {
-            "text": "Buku di sebelah kananmu, itu mudah dipahami.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "……Buku yang di sebelah kanan, itu mudah dipahami."
         },
         {
-            "text": "Admire Vega mengatakan itu setelah sadar ada buku di tanganku. \nDia lalu pergi diam-diam tanpa berkata-kata."
+            "name": "",
+            "text": "Admire Vega mengatakan itu setelah melirik buku di tanganku. \nKemudian dia pergi tanpa berkata-kata."
         },
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………"
         },
         {
-            "text": "<i>Kenapa aku tak bisa cuek padanya…?</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(……Kenapa, aku tak bisa mendorongnya untuk menjauh, ya?)</i>"
         },
         {
-            "text": "<i>Jika saja aku bisa lebih agresif... Aku \nbisa saja membentak dia agar dia menjauh.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(Harusnya aku bisa lebih agresif... Aku bisa saja membentaknya agar dia menjauh dariku)</i>"
         },
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………"
         },
         {
-            "text": "Tapi aku butuh Trainer jika ingin berpartisipasi dalam balapan.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "……Tapi aku butuh Trainer untuk bisa berpartisipasi dalam balapan."
         },
         {
-            "text": "<i>Cuma itu saja yang kubutuh.Aku \ntahu itu faktanya. Lagipula, aku suka sendiri.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(Cuma itu saja yang aku butuh. Pasti cuma karena itu. \n……Lagipula, aku memang sendirian kok)</i>"
         }
-    ],
-    "title": "Seperti Berenang dalam Nebula"
+    ]
 }

@@ -2,16 +2,16 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Latihannya sangat mendasar, tapi\nkalian berdua mulai berada di\ngelombang yang sama! Namun …"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Saya rasa pelatih yang mengutamakan\nUma-nya tidak akan berhenti di sini. Saya pasti akan\nmenonton pelatihan Anda berikutnya...!"
+            "name": "Etsuko Otonashi",
+            "text": "Saya rasa Trainer yang mengutamakan\nUma-nya tidak akan berhenti di sini. Saya pasti akan\nmenonton pelatihan Anda berikutnya...!"
         },
         {
             "text": "… Mendapat peringkat yang layak !",
-            "name": "Monolog"
+            "name": ""
         }
     ],
     "title": "Evaluasi reporter meningkat"

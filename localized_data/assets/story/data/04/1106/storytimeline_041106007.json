@@ -3,19 +3,19 @@
     "text_block_list": [
         {
             "text": "Ah, a poster about the festival. And they've got fireworks too.",
-            "name": "Uma Musume A"
+            "name": "Umamusume A"
         },
         {
             "text": "There's a rumor that if you head in to the mountains from \nhere, you can also find a place to see fireflies.",
-            "name": "Uma Musume B"
+            "name": "Umamusume B"
         },
         {
             "text": "I want to go but…… we're at training camp, \nso I want to concentrate on that. Even if training's \nover, I don't want to lose focus.",
-            "name": "Uma Musume A"
+            "name": "Umamusume A"
         },
         {
             "text": "Right. There's only a little time \nleft at camp…… yeah, let's do our best!",
-            "name": "Uma Musume B"
+            "name": "Umamusume B"
         },
         {
             "text": "…………",
@@ -47,7 +47,7 @@
             ]
         },
         {
-            "text": "Haaa. Whatever~. In that case, I won't hold \nback. I'll have Trainer-san accompany me.",
+            "text": "Haaa. Whatever～. In that case, I won't hold \nback. I'll have Trainer-san accompany me.",
             "name": "Hishi Miracle",
             "choice_data_list": [
                 "Of course, gladly."
@@ -62,7 +62,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "Hmmmm~, they don't seem to be here, huh…… I \nguess the fireflies were just a rumor after all.",
+            "text": "Hmmmm～, they don't seem to be here, huh…… I \nguess the fireflies were just a rumor after all.",
             "name": "Hishi Miracle",
             "choice_data_list": [
                 "<size=42>We probably shouldn't go much further</size>"
@@ -73,7 +73,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "(I just wanted to show them scenery that was \nout of the ordinary…… Is this what happens \nwhen you do something you're not used to~?)",
+            "text": "(I just wanted to show them scenery that was \nout of the ordinary…… Is this what happens \nwhen you do something you're not used to～?)",
             "name": "Hishi Miracle"
         },
         {
@@ -88,7 +88,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "Uhh~~~……well, you see. It's just something \nthat I've been thinking about for a while now.",
+            "text": "Uhh～～～……well, you see. It's just something \nthat I've been thinking about for a while now.",
             "name": "Hishi Miracle"
         },
         {
@@ -167,7 +167,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "Geez, you're real quick to start fooling around. I did \nthink we were having a serious conversation, you know~?",
+            "text": "Geez, you're real quick to start fooling around. I did \nthink we were having a serious conversation, you know～?",
             "name": "Hishi Miracle",
             "choice_data_list": [
                 "Yeah, I was really happy"
@@ -202,7 +202,7 @@
             "text": "After letting out a deep breath and relaxing, \nHishi Miracle turned to me with a smile. Even \nif there is a difference, it's not a bad thing."
         },
         {
-            "text": "Compared to other trainers and their Uma Musume, it \nreally was a little different. But, even then――",
+            "text": "Compared to other trainers and their Umamusume, it \nreally was a little different. But, even then――",
             "choice_data_list": [
                 "I think it's fun",
                 "I think it's fun"

@@ -1,0 +1,291 @@
+{
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Terimakasih untuk kerja kerasmu , jadi aku akan menjelaskan tentang \" Proyek Pulau Terpencil \" jika kamu mau ! -----------"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "jadi , <username>  Mau aku bantu soal ini ?",
+            "choice_data_list": [
+                "Dengarkan",
+                "Ga Perlu Deh ...."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Jadi Apa yang ingin kamu tahu ?"
+        },
+        {
+            "name": "",
+            "text": "Apa yang ingin Kamu tahu Tentang \"Proyek Pulau Terpencil \" Ini ?",
+            "choice_data_list": [
+                "Tentang Pulau Terpencil",
+                "Tentang \" Plan Konstruksi \"",
+                "Tentang \" Poin Dev. \"",
+                "Tentang \" Latihan Di Pulau \"",
+                "Udah Gitu Aja"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ya , jadi itu Tentang Proyek Pulau Terpencil ini"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Proyek Pulau Terpencil itu sebuah proyek buat bangun fasilitas latihan di pulau yang tidak jauh dari akademi . ya..biar para murid ga bosan ."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Proyek ini terdiri dari 5 Pertemuan Evaluasi , biasanya untuk nge-check progress dan perkembangan pembangunan di pulaumu ",
+            "color_text_info_list": [
+                "5 Pertemuan",
+                "pembangunan"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Setiap konstruksi , biasanya akan mendapat Pt. Dev dalam setiap latihan yang dilakukan sampai pertemuan berikutnya",
+            "color_text_info_list": [
+                " Pt. Dev",
+                "setiap latihan "
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Jika progress plan konstruksi kamu berjalan lancar dalam setiap pertemuan , kamu dapat nilai tinggi dan berpengaruh pada latihanmu ",
+            "color_text_info_list": [
+                "berjalan lancar"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Latihan yang efisien dan partisipasi dalam race bisa menaikan Pt.Dev Sebanyak mungkin"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Kali ini, Anda juga akan mengambil bagian dalam Twinkle Series dan Deserted Island Project.",
+            "color_text_info_list": [
+                "Deserted Island"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Dicatat Ya ,  tergantung pada status pelatihan, pelatihan dapat berakhir bahkan selama Proyek Pulau Terpencil",
+            "color_text_info_list": [
+                "Dicatat Ya",
+                "pelatihan",
+                "Proyek Pulau Terpencil"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Sekian penjelasan tentang \"Deserted Island Project\". Ada lagi yang ingin ditanyakan?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oiya , Ini Soal Rencana Pembangunan........."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Setiap 6 Bulan Sekali , Kamu harus memilih dan menyelesaikan proyek pembangunan pulau . ",
+            "color_text_info_list": [
+                "proyek pembangunan"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Dalam Plan Konstruksi , kamu bisa memilih 6 fasilitas berbeda . dan bebas kamu bisa memilih urutan manapun .",
+            "color_text_info_list": [
+                "6 fasilitas berbeda ",
+                "memilih urutan manapun ."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Pilihan “fasilitas untuk dibangun” akan memengaruhi efektivitas pelatihan khusus, “Pelatihan Pulau”, dan pelatihan rutin.",
+            "color_text_info_list": [
+                "Pelatihan Pulau",
+                " pelatihan rutin."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "\"Urutan konstruksi\" yang kamu pilih akan memengaruhi fasilitas mana yang akan berpengaruh selama pelatihan pulau.",
+            "color_text_info_list": [
+                "Urutan konstruksi",
+                "memengaruhi fasilitas mana"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Setiap fasilitas memiliki level dan biaya,\ndan seiring Anda meningkatkan level fasilitas, efeknya pun meningkat!",
+            "color_text_info_list": [
+                "level",
+                "efeknya"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Tapi Semakin Lama Biayanya Semakin Mahal . Jadi Manfaatkan hal ini sebaik mungkin",
+            "color_text_info_list": [
+                "Biayanya",
+                "Mahal"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Selain itu, Kamu tidak dapat meningkatkan level fasilitas yang sama lebih dari 2 level dalam satu proyek konstruksi. Harap berhati-hati!",
+            "color_text_info_list": [
+                "tidak dapat meningkatkan",
+                "lebih dari 2",
+                "berhati-hati!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Sekian penjelasan tentang \"Rencana Konstruksi\". Ada lagi yang ingin Anda tanyakan?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ini tentang \"Pt. Dev\""
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Berdasarkan pengetahuan yang diperoleh Umamusume melalui pelatihan dan balapan, fasilitas akan dibangun di Pulau Pusat Pelatihan!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Indikator sejauh mana rencana ini telah berkembang disebut Poin Pengembangan.",
+            "color_text_info_list": [
+                "Poin Pengembangan"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Poin pengembangan dapat diperoleh melalui latihan rutin, partisipasi lomba, atau \"Pelatihan Pulau\" ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Jadi saat kamu mengumpulkan poin , progress pembangunan kamu akan meningkat juga seiring kamu latihan.",
+            "color_text_info_list": [
+                "meningkat"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Dan satu hal lagi: pastikan Anda memperoleh Poin Pengembangan sebanyak mungkin sebelum Rapat Evaluasi!",
+            "color_text_info_list": [
+                "Rapat Evaluasi!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Kamu tidak hanya akan menerima evaluasi positif di rapat evaluasi, tetapi juga akan membantu Umamusume Mu berkembang ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Sekian penjelasan tentang \"Poin Pengembangan\".\nAda lagi yang ingin ditanyakan?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ini tentang \"Pelatihan Pulau.\""
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Dengan mendapatkan \"Poin Pengembangan\", Anda dapat memperoleh \"Tiket Pelatihan Pulau\".",
+            "color_text_info_list": [
+                "Tiket Pelatihan"
+            ]
+        },
+        {
+            "text": "Dengan Pakai Tiket Pulau ,  Kamu bisa coba hasil latihan kamu dan statsmu akan meningkat pesat karena menjadi bagian dari uji coba latihan di pulau",
+            "color_text_info_list": [
+                "Dengan Pakai Tiket Pulau"
+            ],
+            "name": "Tazuna Hayakawa"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Di Island Training, begitu kamu dapet tiket Island Training, efek dari fasilitas yang sudah selesai dibangun bakal langsung kepakai.",
+            "color_text_info_list": [
+                " Island Training",
+                "selesai dibangun"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Pikirin urutan pembangunannya dengan hati-hati, ya."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Terus, para Umamusume yang bakal latihan bareng kamu itu muncul di fasilitas yang sama kayak tempat mereka biasanya latihan.",
+            "color_text_info_list": [
+                " Umamusume",
+                "kayak tempat mereka biasanya latihan."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Tapi kalau fasilitas yang harusnya mereka pakai belum dibangun, ya aturan itu nggak berlaku. Jadi, inget baik-baik ya",
+            "color_text_info_list": [
+                "fasilitas",
+                "aturan"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "“Island Training itu memang keren banget, tapi cuma bisa dipakai kalau kamu lagi punya tiket Island Training, ya!”",
+            "color_text_info_list": [
+                " tiket Island Training"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Terus, kecuali di periode khusus, kamu cuma bisa pegang satu tiket Island Training aja…!",
+            "color_text_info_list": [
+                "tiket Island"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "“Kalau kamu nerima tiket kedua, tiket Island Training yang pertama bakal langsung hangus. Jadi hati-hati ya!”",
+            "color_text_info_list": [
+                "tiket kedua",
+                "yang pertama",
+                "hangus"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oke, penjelasan tentang ‘Island Training’ sampai di sini dulu.\nMasih ada yang mau kamu tanyain?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Udah Itu aja ? mau tanya apa lagi ?",
+            "choice_data_list": [
+                "Keknya mau tanya lagi....",
+                "udah deh , makasih ...."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Baik, sip♪ Kalau buat berjaga-jaga, aku kasih rangkuman singkatnya di sini ya."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Penjelasan barusan bisa kamu lihat kapan aja dengan tekan tombol ‘i’ di kiri atas.",
+            "color_text_info_list": [
+                "tombol ‘i’ "
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Kalau gitu, semangat ya. Aku bakal dukung kamu dari balik layar."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Semangat Ya Trainer ."
+        }
+    ]
+}

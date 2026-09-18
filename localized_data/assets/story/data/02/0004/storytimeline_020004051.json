@@ -35,14 +35,16 @@
             "text": "Ah, aku juga kepikiran soal itu! Jadi gimana, Trainer!?"
         },
         {
-            "text": "Belum pasti sih, tapi kemungkinan besar kita bakal ambil jalur itu."
+            "text": "Belum pasti sih, tapi kemungkinan besar kita bakal ambil jalur itu.",
+            "name": "<username>"
         },
-        {
-            "text": "Belum pasti sih, tapi kemungkinan besar kita bakal ambil jalur itu."
+         {
+            "text": "Belum pasti sih, tapi kemungkinan besar kita bakal ambil jalur itu.",
+            "name": "<username>"
         },
         {
             "name": "Pembeli A",
-            "text": "Keren! Tunjukin dong gelar “Triple Crown Gadis Kuda” \nplus Arima Kinen juga!"
+            "text": "Keren! Tunjukin dong gelar “Triple Crown Umamusume” \nplus Arima Kinen juga!"
         },
         {
             "name": "Narita Brian",
@@ -57,10 +59,12 @@
             "text": "Orang-orang udah ngomongin soal kemenangan. \nEmang sesuai harapan dari Brian."
         },
         {
-            "text": "Jujur aja, aku nggak bisa bayangin Brian kalah sekarang. \nMau itu “Kikkashou” atau “Arima Kinen”."
+            "text": "Jujur aja, aku nggak bisa bayangin Brian kalah sekarang. \nMau itu “Kikkashou” atau “Arima Kinen”.",
+            "name": "<username>"
         },
         {
-            "text": "Tentu aja, tergantung lawannya, mungkin \ngambaran itu bisa goyah."
+            "text": "Tentu aja, tergantung lawannya, mungkin \ngambaran itu bisa goyah.",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
@@ -71,7 +75,8 @@
             "text": "Oya? Bukannya itu Brian."
         },
         {
-            "text": "Aku yakin itu dia…"
+            "text": "Aku yakin itu dia…",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -94,7 +99,7 @@
             "text": "Aku lakuin ini juga buat jadi contoh. \nNggak peduli siapa pun, asal punya nyali, \nkamu bisa hadapin apa aja!"
         },
         {
-            "text": "Gadis Kuda bernama Hishi Amazon ini keliatan \npunya prinsip kuat dan masuk akal, nggak kalah \ndari Narita Brian."
+            "text": "Umamusume bernama Hishi Amazon ini keliatan \npunya prinsip kuat dan masuk akal, nggak kalah \ndari Narita Brian."
         },
         {
             "name": "Hishi Amazon",
@@ -164,7 +169,12 @@
             "text": "Ada yang bilang mereka lebih kaget \nngeliat dia dibanding balapannya Brian."
         },
         {
-            "text": "Aku rasa dia sadar kalau Brian kekurangan “Lawan”."
+            "text": "Aku rasa dia sadar kalau Brian kekurangan “Lawan”.",
+            "name": "<username>"
+        },
+        {
+            "text": "Aku rasa dia sadar kalau Brian kekurangan “Lawan”.",
+            "name": "<username>"
         },
         {
             "text": "Aku rasa dia sadar kalau Brian kekurangan “Lawan”."

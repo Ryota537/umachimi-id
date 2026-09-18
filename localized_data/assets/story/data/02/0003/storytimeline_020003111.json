@@ -51,10 +51,12 @@
       "text": "Oalah, ternyata hari ini ya."
     },
     {
-      "text": "Latihan terbuka juga jadi kesempatan bagus buat lihat kondisi pelari lain. \nMari kita perhatikan juga cara larinya Hayahide sama Taishin."
+      "text": "Latihan terbuka juga jadi kesempatan bagus buat lihat kondisi pelari lain. \nMari kita perhatikan juga cara larinya Hayahide sama Taishin.",
+            "name": "<username>"
     },
     {
-      "text": "Latihan terbuka juga jadi kesempatan bagus buat lihat kondisi pelari lain. \nMari kita perhatikan juga cara larinya Hayahide sama Taishin."
+      "text": "Latihan terbuka juga jadi kesempatan bagus buat lihat kondisi pelari lain. \nMari kita perhatikan juga cara larinya Hayahide sama Taishin.",
+            "name": "<username>"
     },
     {
       "name": "Winning Ticket",
@@ -86,10 +88,12 @@
       "text": "Trainer, kamu lihat Ticket nggak?"
     },
     {
-      "text": "Aku nggak lihat… sama kayak kalian, \naku juga lagi jalan ke latihan terbuka…"
+      "text": "Aku nggak lihat… sama kayak kalian, \naku juga lagi jalan ke latihan terbuka…",
+            "name": "<username>"
     },
     {
-      "text": "Aku nggak lihat… sama kayak kalian, \naku juga lagi jalan ke latihan terbuka…"
+      "text": "Aku nggak lihat… sama kayak kalian, \naku juga lagi jalan ke latihan terbuka…",
+            "name": "<username>"
     },
     {
       "name": "Biwa Hayahide",
@@ -196,7 +200,7 @@
       "text": "Derby itu cuma sekali… \nDi Derby… nggak ada yang namanya kesempatan kedua."
     },
     {
-      "text": "Malamnya, aku sendirian memikirkan Winning Ticket di ruang pelatih."
+      "text": "Malamnya, aku sendirian memikirkan Winning Ticket di ruang Trainer."
     },
     {
       "text": "Derby, yang pertama kali dia lihat waktu kecil, jadi mimpinya."
@@ -229,7 +233,7 @@
       "text": "Sebagai Trainer, tugasku adalah dukung dia dan bantu dia raih mimpinya."
     },
     {
-      "text": "Aku bakal ukir nama Winning Ticket sebagai gadis Derby, \ndan namaku sebagai pelatih Derby…!"
+      "text": "Aku bakal ukir nama Winning Ticket sebagai gadis Derby, \ndan namaku sebagai Trainer Derby…!"
     }
   ]
 }

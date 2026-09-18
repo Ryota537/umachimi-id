@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "Latihan hari ini ngapain ya?\nSama kayak kemarin aja boleh kan."
+        },
+        {
+            "text": "Kenapa mukanya gitu?\nAku ngomong yang aneh ya?",
+            "choice_data_list": [
+                "Mungkin logat daerahnya agak kental……"
+            ]
+        },
+        {
+            "text": "Eh!? Masa aku selogat itu!?"
+        },
+        {
+            "text": "Maaafkan aku!\nKayaknya aku nggak bisa jadi 'Gold City' deh!"
+        },
+        {
+            "text": "Akibat balapan berturut-turut, Yukino Bijin\ntampaknya sangat kelelahan.\nSebaiknya jadwal ke depan perlu ditinjau ulang……."
+        }
+    ]
+}

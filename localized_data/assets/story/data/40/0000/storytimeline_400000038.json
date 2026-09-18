@@ -1,14 +1,14 @@
 {
-    "no_wrap": true,
+    "title": "Kondisi kulit Kulitku Tidak Beres...",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> sedang berada di wastafel, tampak gelisah…",
-            "name": "Monolog"
+            "name": "",
+            "text": "<chrname> sedang berada di depan wastafel\ntampak khawatir…"
         },
         {
-            "text": "Rupanya, kulitnya tidak dalam kondisi\nbaik…",
-            "name": "Monolog"
+            "name": "",
+            "text": "Sepertinya kondisi kulitnya sedang tidak baik…"
         }
-    ],
-    "title": "Kondisi kulit Kulitku Tidak Beres..."
+    ]
 }

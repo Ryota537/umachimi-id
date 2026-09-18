@@ -60,12 +60,12 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Sekarang Rice-san punya kekuatan untuk menarik tim dengan cara mengejutkan."
+            "text": "Sekarang Rice-san punya kekuatan\nuntuk menarik tim dengan cara mengejutkan."
         },
         {
             "text": "Seperti kata McQueen, aku merasa usaha yang Rice Shower lakukan\nmemiliki efek kecil tapi terasa bagi semua di sekitar kita.",
             "choice_data_list": [
-                "Sekarang kamu bisa fokus ke perawatan tanpa khawatir tentang dia."
+                "Sekarang Fokus saja sama pemulihanmu"
             ]
         },
         {
@@ -76,7 +76,7 @@
             "text": "Untuk mengisi kekosongan yang ditinggalkan McQueen karena cidera,\nRice Shower mulai latihan dengan tim yang bersatu membantu."
         },
         {
-            "name": "Gadis Kuda dengan Poni Lurus",
+            "name": "Umamusume dengan Poni Lurus",
             "text": "Heh….heh…!"
         },
         {
@@ -84,7 +84,7 @@
             "text": "Ikuti, Ikuti…"
         },
         {
-            "name": "Gadis Kuda Bermata Sayu",
+            "name": "Umamusume Bermata Sayu",
             "text": "Rice-san, ikut aku dari sini ya."
         },
         {
@@ -92,7 +92,7 @@
             "text": "Iya, Ikuti, Ikuti…"
         },
         {
-            "name": "Gadis Kuda dengan Poni Lurus",
+            "name": "Umamusume dengan Poni Lurus",
             "text": "Heh….heh, heeh…. Rice-san, keren banget…"
         },
         {
@@ -143,7 +143,7 @@
             "text": "Aku sarankan nikmati ketegangan itu, Rice-san."
         },
         {
-            "name": "Gadis Kuda Bermata Sayu",
+            "name": "Umamusume Bermata Sayu",
             "text": "Rice-san, kamu pasti bisa! Kamu sudah latihan terus kan?"
         },
         {
@@ -159,7 +159,7 @@
             "text": "Bagus! Itu semangatnya! Itu semangatnya!"
         },
         {
-            "name": "Gadis Kuda berambut Bob Hitam",
+            "name": "Umamusume berambut Bob Hitam",
             "text": "Kami akan mendukungmu dengan sekuat tenaga."
         },
         {
@@ -178,7 +178,7 @@
             "text": "Hari itu, Rice Shower yang bilang “Aku mau menang” di bianglala."
         },
         {
-            "text": "Lomba untuk membuktikan seberapa lurus dan kuat perasaannya akhirnya dimulai!"
+            "text": "Lomba untuk membuktikan seberapa lurus \ndan kuat perasaannya akhirnya dimulai!"
         }
     ],
     "title": "Semangat Full ! Pasti Menang !",

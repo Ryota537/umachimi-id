@@ -1,6 +1,9 @@
 {
     "windows": {
-        "bundle_name": "YYKXC4AI6SGPUOSHMYVG4GEB3WQCD63U"
+        "bundle_name": "SGD5IHVNW2H2THS3O4UZB5QQGUXAE4X4"
+    },
+    "android": {
+        "bundle_name": "SMFX4PM2Z5GXXNRAXJZKEWPUXKPGFGW6"
     },
     "data": {
         "motion_parameter_list": {
@@ -25,7 +28,7 @@
             "7": {
                 "text_param_list": {
                     "0": {
-                        "text": "Turns",
+                        "text": "Putaran",
                         "position_offset": {
                             "x": 3.0,
                             "y": 0.0,
@@ -37,7 +40,7 @@
             "12": {
                 "text_param_list": {
                     "0": {
-                        "text": "End"
+                        "text": "Selesai"
                     }
                 }
             },
@@ -95,8 +98,5 @@
                 }
             }
         }
-    },
-    "android": {
-        "bundle_name": "3B3UTAJQI57NCWBTURCK2AARBCOU6LTQ"
     }
 }

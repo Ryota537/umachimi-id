@@ -1,0 +1,32 @@
+{
+    "windows": {
+        "bundle_name": "MLHVTWZPYI6Q5CNGOWPJ5TNHVQDNNWZL"
+    },
+    "android": {
+        "bundle_name": "JDBQSCPSEN6INXMH66RFA43KQRYTK7F6"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "6": {
+                "plane_param_list": {
+                    "0": {
+                        "name": "txt_story_on",
+                        "scale": {
+                            "x": 1.2,
+                            "y": 1.2,
+                            "z": 1.0
+                        }
+                    },
+                    "1": {
+                        "name": "txt_story_off",
+                        "scale": {
+                            "x": 1.2,
+                            "y": 1.2,
+                            "z": 1.0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

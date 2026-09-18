@@ -1,220 +1,220 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "『Don't ever look away』―― \nAlmost as if commanded, I couldn't tear my gaze away from her."
+            "text": "\"Jangan buang muka\"――\nEntah kenapa, aku beneran nggak bisa ngalihin pandangan dari dia."
         },
         {
             "name": "Verxina",
-            "text": "Haa……haa……haa――"
+            "text": "Haa... haa... haa――"
         },
         {
             "name": "Verxina",
-            "text": "Yaaaaaa!!!!",
+            "text": "Hiyaaaaaa!!!!",
             "choice_data_list": [
-                "(!! She can still accelerate――!?)"
+                "(Dia masih bisa makin cepat――!?)"
             ]
         },
         {
-            "text": "It had been a few months since I had arrived at Tracen Academy. \nI was hoping to scout an Uma Musume so I had come to observe training."
+            "text": "Udah beberapa bulan sejak aku masuk Akademi Tracen. Niatnya cari Umamusume buat direkrut, makanya aku datang lihat latihan."
         },
         {
-            "text": "I was also checking on the participants in the upcoming \nmock race. But the most notable of these was Verxina――",
+            "text": "Aku juga ngecek peserta balapan simulasi besok. Tapi yang paling menonjol cuma Verxina――",
             "choice_data_list": [
-                "(Halfway through I forgot to breathe……!!)"
+                "(Aku sampai lupa napas...!!)"
             ]
         },
         {
-            "text": "From her calm outward appearance, it was a fierce run you wouldn't \nexpect. I just couldn't take my eyes off her regal presence."
+            "text": "Beda sama tampangnya yang kalem, larinya ganas banget dan di luar dugaan. Aura anggunnya bikin mataku nggak bisa lepas."
         },
         {
             "name": "Verxina",
-            "text": "――Do you have some business with me?",
+            "text": "――Ada urusan sama aku?",
             "choice_data_list": [
-                "No……I was just captivated……",
-                "No……I was just captivated……"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Oh my……――Fufuu, thank you very much."
-        },
-        {
-            "name": "Verxina",
-            "text": "I'm glad my amateurish running wasn't unsightly. \nWell then, I have a prior engagement so I'll excuse myself here.",
-            "choice_data_list": [
-                "Ah…………"
-            ]
-        },
-        {
-            "text": "I couldn't bring myself to stop her as she walked away. \nFor a while, I was unable to move from that spot.",
-            "choice_data_list": [
-                "(Her run……was burned in to my memory……)"
-            ]
-        },
-        {
-            "text": "She was dignified and resolute. Like she was aiming higher, \nand higher, continuing to improve herself――"
-        },
-        {
-            "text": "I wanted to be there to see where that run would take her. \nIn that moment, I knew what my dream was.",
-            "choice_data_list": [
-                "(I have to scout her――!)"
-            ]
-        },
-        {
-            "text": "The next day. \nI was looking for Verxina to try and form a contract with her――",
-            "choice_data_list": [
-                "(……What's with all those people?)"
+                "Nggak... cuma kagum aja...",
+                "Nggak... cuma kagum aja..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "――♪ And surpass, this boundless world――"
-        },
-        {
-            "name": "Musical Instructor",
-            "text": "……As expected of Verxina-san. \nEven while training, you still managed to come this far."
+            "text": "Ya ampun...――Fufu, makasih banyak ya."
         },
         {
             "name": "Verxina",
-            "text": "Thank you very much. However, I still haven't reached \nmy goal…… I intend to continue studying further, so \nI'm thankful for your continued guidance."
-        },
-        {
-            "text": "It seems like Verxina was also taking voice lessons. Seeing her \nworking so diligently, many Uma Musume were looking on in admiration.",
+            "text": "Syukurlah kalau lari amatirku kelihatan bagus. Kalau gitu, aku ada janji, duluan ya.",
             "choice_data_list": [
-                "(I shouldn't interrupt……)"
+                "Ah..."
             ]
         },
         {
-            "name": "Spectating Horsegirls",
-            "text": "『Looks like she's going to throw now!』 \n『Hey, I can't see anything!』 『Shhh! Don't bother her』"
+            "text": "Aku nggak sanggup nahan dia pergi. Sesaat, aku cuma bisa matung di sana.",
+            "choice_data_list": [
+                "(Larinya... nempel banget di kepalaku...)"
+            ]
+        },
+        {
+            "text": "Dia anggun dan tegas banget. Kayak terus natap ke atas, makin tinggi, dan terus ngembangin diri――"
+        },
+        {
+            "text": "Aku pengen lihat sejauh mana larinya bakal bawa dia. Saat itu juga, aku sadar apa mimpiku.",
+            "choice_data_list": [
+                "(Aku harus rekrut dia――!)"
+            ]
+        },
+        {
+            "text": "Besoknya. Aku nyariin Verxina niatnya mau ngajak kontrak――",
+            "choice_data_list": [
+                "(...Kok rame banget ya?)"
+            ]
         },
         {
             "name": "Verxina",
-            "text": "…………Fuu――"
+            "text": "――♪ Dan melampaui, dunia tanpa batas ini――"
         },
         {
-            "text": "(BANG!!)"
-        },
-        {
-            "name": "Verxina",
-            "text": "……Fuuu. ……Not good enough. Since I haven't been throwing \nregularly, it really does feel like I've gotten rusty."
+            "name": "Instruktur Musik",
+            "text": "...Emang beda ya Verxina-san. Padahal jadwal latihan padat, tapi vokalnya tetap sejago ini."
         },
         {
             "name": "Verxina",
-            "text": "…………Alright"
+            "text": "Makasih banyak. Tapi aku belum puas... Aku bakal terus belajar, mohon bimbingannya ya."
         },
         {
-            "text": "(BANG!!)"
-        },
-        {
-            "text": "Since she was outside today, I wanted to try talking \nto her but, I really didn't want to disturb her.",
+            "text": "Ternyata Verxina juga les vokal. Lihat dia latihan seserius itu, banyak Umamusume yang natap kagum.",
             "choice_data_list": [
-                "(She really takes everything seriously……)"
+                "(Nggak boleh ganggu nih...)"
             ]
         },
         {
-            "text": "After that, I continued searching for \nVerxina several times hoping to scout her, but――",
+            "name": "<size=35>Umamusume Yang Mengamati</size>",
+            "text": "『Eh dia mulai lempar bola!』『Woi, aku nggak kelihatan!』『Ssst! Berisik tau!』"
+        },
+        {
+            "name": "Verxina",
+            "text": "............Fuu――"
+        },
+        {
+            "text": "(DOR!!)"
+        },
+        {
+            "name": "Verxina",
+            "text": "...Fuu. ...Masih kurang nih. Gara-gara jarang lempar bola, rasanya kaku banget."
+        },
+        {
+            "name": "Verxina",
+            "text": "............Yosh."
+        },
+        {
+            "text": "(DOR!!)"
+        },
+        {
+            "text": "Mumpung dia lagi di luar, pengennya sih ngajak ngobrol, tapi beneran nggak enak ganggunya.",
             "choice_data_list": [
-                "(There's no chance to talk to her……!)"
+                "<size=39>(Dia beneran serius di segala hal ya...)</size>"
             ]
         },
         {
-            "text": "It seems like she has a very stoic personality. \nEvery time I saw her, she was always diligently working on something."
-        },
-        {
-            "text": "I found myself drawn more and more to her earnest nature, \nbut I still couldn't bring myself to talk to her. Before \nI realized it, the mock race was just around the corner.",
+            "text": "Habis itu, aku nyari Verxina terus-terusan biar bisa rekrut dia, tapi――",
             "choice_data_list": [
-                "(I wanted to be the first to talk to her)"
+                "(Sama sekali nggak ada celah...!)"
             ]
         },
         {
-            "name": "Verxina's Fan",
-            "text": "Hey! It looks like Verxina-senpai is back!"
+            "text": "Orangnya emang disiplin banget. Tiap kulihat, pasti lagi serius ngerjain sesuatu."
+        },
+        {
+            "text": "Sifat seriusnya itu bikin aku makin tertarik, tapi aku tetep nggak berani nyapa. Tahu-tahu, balapan simulasi udah di depan mata.",
+            "choice_data_list": [
+                "<size=38>(Padahal pengen ngobrol duluan sama dia)</size>"
+            ]
+        },
+        {
+            "name": "Fans Verxina",
+            "text": "Woi! Verxina-senpai udah balik tuh!"
         },
         {
             "name": "Vivlos",
-            "text": "――Mmmm～～that was fun, huh～? Onee-chan's Getting Scouted Pre-party♪"
+            "text": "――Mmmm～～Seru banget ya～? Pesta pra-rekrutmen buat Kakak nih♪"
         },
         {
             "name": "Verxina",
-            "text": "Mama's just being too hasty. \nEven though I've only just been talked to by a bunch of people."
+            "text": "Mama nyimpulinnya kecepatan tuh. Padahal tadi cuma diajak ngobrol sama banyak orang aja."
         },
         {
             "name": "Vivlos",
-            "text": "That just means it's all up to Onee-chan's feelings. \nOnee-chan really is amazing～! Right, Chevacchi!?"
+            "text": "Berarti tinggal nunggu Kakak mau milih yang mana. Kakak emang hebat～! Iya kan, Chevacchi!?"
         },
         {
             "name": "Cheval Grand",
-            "text": "……that's right. \nIt just means that everyone see's Nee-san in the same――"
+            "text": "...Bener. Berarti semua orang mandang Kakak kayak gitu――"
         },
         {
             "name": "Cheval Grand",
-            "text": "――Huh, u-uwaaaaaaah……!?"
+            "text": "――Eh, u-uwaaaaaaah...!?"
         },
         {
-            "name": "Verxina's Fans",
-            "text": "『Verxina-senpai! Do your best in tomorrow's mock race!』 \n『Verxina-sama! Tomorrow, we'll definitely come cheer for you!』"
+            "name": "Fans Verxina",
+            "text": "『Verxina-senpai! Semangat buat balapan simulasi besok ya!』\n『Verxina-sama! Besok kita pasti datang dukung!』"
         },
         {
-            "text": "It seems like they were all waiting for a chance \nto talk to her too. As soon as they got out of \nthe car, they were surrounded by a group of fans.",
+            "text": "Kayaknya mereka juga nunggu momen buat ngajak ngobrol. Pas turun \ndari mobil aja, mereka langsung dikerumunin fans.",
             "choice_data_list": [
-                "(I can't even get close……)"
+                "(Boro-boro bisa ngedeket...)"
             ]
         },
         {
             "name": "Verxina",
-            "text": "――Everyone"
+            "text": "――Semuanya."
         },
         {
             "name": "Verxina",
-            "text": "I'm truly grateful for your enthusiastic support. \nHowever――don't you think you're exaggerating a bit?"
+            "text": "Makasih banyak ya buat dukungan semangatnya. Tapi――nggak \nberlebihan nih?"
         },
         {
             "name": "Verxina",
-            "text": "The mock race is just a way to confirm your current state. \nIt's just a chance to show if you can reach for the 『Peak』.",
+            "text": "Balapan simulasi kan cuma buat ngecek kondisi sekarang. Cuma ajang pembuktian pantas nggaknya raih \"Puncak\".",
             "choice_data_list": [
-                "(――――!)"
+                "(Ah――――!)"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Of course, tomorrow, I'll show you what victory is like \nfor someone aiming for that 『Peak』. Without a doubt."
+            "text": "Pastinya, besok aku bakal tunjukin gimana bentuk kemenangan orang \nyang ngejar \"Puncak\" itu. Nggak usah ragu."
         },
         {
             "name": "Verxina",
-            "text": "That's why you should feel free to come and see. \n――Well then, please excuse me.",
+            "text": "Makanya, datang dan tonton aja besok. ――Kalau gitu, permisi dulu ya.",
             "choice_data_list": [
-                "Ah……"
+                "Ah..."
             ]
         },
         {
-            "text": "The 『Peak』――I now knew that was her aspiration. \nAll her efforts everyday were for this. And so, the next day――"
+            "text": "\"Puncak\"――Sekarang aku paham tujuannya. Semua kerja kerasnya tiap hari itu demi hal itu. Terus, besoknya――"
         },
         {
-            "name": "Commentator",
+            "name": "Komentator",
             "text": "Goaaaaaal!!!!"
         },
         {
-            "name": "Commentator",
-            "text": "With a lead of over 1 length with the Uma Musume behind her, \nVerxina claims victory in this mock race!!"
+            "name": "Komentator",
+            "text": "Beda lebih dari 1 jarak dari yang di belakangnya, Verxina menang telak di balapan simulasi ini!!"
         },
         {
-            "text": "Just as she declared, she had won the race. \nAnd then she was surrounded by people trying to scout her."
+            "text": "Sesuai omongannya, dia beneran menang. Terus langsung dikerumunin trainer yang mau ngerekrut dia."
         },
         {
-            "name": "Trainers",
-            "text": "『Verxina-san! Have you thought about my scouting offer?』 \n『I've personalized a training plan for you, will you take a look?』"
+            "name": "Para Trainer",
+            "text": "『Verxina-san! Udah dipikirin soal tawaran rekrutmen-ku?』 『Aku udah buatin menu latihan khusus buatmu, mau lihat nggak?』"
         },
         {
-            "text": "This time, I couldn't afford to miss out. \nI was about to speak out too――but then――"
+            "text": "Kali ini aku nggak boleh ketinggalan. Aku juga baru mau ngomong――\ntapi tiba-tiba――"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "B-big news! \nIt sounds like that girl is aiming for her Debut too!"
+            "name": "Trainer Veteran A",
+            "text": "G-gawat! Kayaknya anak itu juga ngincar Debut!"
         },
         {
-            "text": "With that announcement, there was a moment \nof utter chaos among those gathered....."
+            "text": "Gara-gara pengumuman itu, orang-orang di sana langsung heboh sesaat....."
         }
     ]
 }

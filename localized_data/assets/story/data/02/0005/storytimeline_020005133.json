@@ -46,7 +46,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Lari hari ini, tanpa ragu, bakal bawa \"gadis kuda\" ke tahap selanjutnya. \nAku punya firasat ini bakal jadi momen penting dalam sejarah.",
+      "text": "Lari hari ini, tanpa ragu, bakal bawa \"Umamusume\" ke tahap selanjutnya. \nAku punya firasat ini bakal jadi momen penting dalam sejarah.",
       "name": "Agnes Tachyon"
     },
     {
@@ -58,7 +58,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Mulai sekarang, kita bakal nunjukin lebih banyak lagi \n\"gadis kuda\" yang terus mengejar “pemandangan” nya, Silence Suzuka.",
+      "text": "Mulai sekarang, kita bakal nunjukin lebih banyak lagi \n\"Umamusume\" yang terus mengejar “pemandangan” nya, Silence Suzuka.",
       "name": "<username>"
     },
     {
@@ -70,7 +70,11 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Oke, kalian harus hadir di acara penghargaan, jadi nggak bisa berlama-lama di sini.",
+      "text": "Oke, kalian harus hadir di acara penghargaan, \njadi nggak bisa berlama-lama di sini.",
+      "name": "<username>"
+    },
+    {
+      "text": "Oke, kalian harus hadir di acara penghargaan, \njadi nggak bisa berlama-lama di sini.",
       "name": "<username>"
     },
     {
@@ -86,6 +90,13 @@
       "name": "Silence Suzuka"
     },
     {
+      "text": "Memberi dorongan lembut itu tugasku juga. \nDan kamu udah lebih dari sekadar merespon itu—",
+      "name": "<username>",
+      "choice_data_list": [
+        "Selamat datang kembali, Suzuka."
+      ]
+    },
+     {
       "text": "Memberi dorongan lembut itu tugasku juga. \nDan kamu udah lebih dari sekadar merespon itu—",
       "name": "<username>",
       "choice_data_list": [
@@ -109,10 +120,14 @@
       "name": "Agnes Tachyon"
     },
     {
-      "text": "Suzuka-kun adalah “mimpi” banyak gadis kuda dan orang-orang. \nGimana, terdengar pas nggak?",
+      "text": "Suzuka-kun adalah “mimpi” banyak Umamusume dan orang-orang. \nGimana, terdengar pas nggak?",
       "name": "Agnes Tachyon"
     },
     {
+      "text": "Ya, itu paling tepat.",
+      "name": "<username>"
+    },
+     {
       "text": "Ya, itu paling tepat.",
       "name": "<username>"
     },

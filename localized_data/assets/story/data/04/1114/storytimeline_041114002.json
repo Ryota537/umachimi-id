@@ -1,0 +1,225 @@
+{
+    "text_block_list": [
+        {
+            "text": "Beberapa hari setelah insiden di depan Patung Tiga Dewi. Sebuah balapan eksibisi diadakan di fan event yang diselenggarakan di Tokyo Racecourse, namun――"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "......Oh? Hei. Tempat para Trainer itu berkerumun di sebelah sana itu――"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ada satu anak baru yang kinclong tuh. \nApa dia yang dimaksud dengan \"si itu\"?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Eh, itu yang teman masa kecilnya Buena-chan? Boong, mana tuh!? \nTrus, udah kontrak belum? Jangan-jangan udah?! Emo～～～!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, benar, itu dia! Sekarang, dia――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Masih dalam masa kontrak sementara, sih."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Duh, sebentar lagi waktunya...! Aku harus bersiap untuk balapan! \nKalau begitu Nakayama-san, Jordan-san, aku permisi dulu ya."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "......Eh? Ciyus? Masih \"sementara\" ！? \nMaksudnya gimana sih～！?！?！?"
+        },
+        {
+            "name": "Komentator",
+            "text": "――Nah, balapan eksibisi akhirnya memasuki babak akhir! Tersisa 400 meter, \ndari sisi luar datanglah Buena Vista! Buena Vista, larinya tajam sekali!"
+        },
+        {
+            "name": "Trainer Veteran",
+            "text": "Oh! Dia punya sprint akhir yang cukup bagus ya...! Jika sudah di tahap ini... Fufu, dia sepertinya akan sangat bersinar jika diasah."
+        },
+        {
+            "name": "Trainer Menengah",
+            "text": "Gosipnya, balapan eksibisi kali ini dipenuhi calon bintang berbakat... \nTernyata Buena Vista benar-benar menonjol di antara mereka, ya!!"
+        },
+        {
+            "name": "Komentator",
+            "text": "――GOAL! Pemenangnya adalah Buena Vista!! Ini dia Buena Vista!! \nDia telah menjadi tokoh kunci yang berhasil memeriahkan balapan eksibisi ini dengan gemilang!!",
+            "choice_data_list": [
+                "…………"
+            ]
+        },
+        {
+            "name": "Komentator",
+            "text": "Meski belum debut resmi, itu adalah lari yang luar biasa dan membuat kita menantikan perjuangannya ke depan. Buena Vista! Dari bangku penonton pun mengalir tepuk tangan meriah tanpa henti!"
+        },
+        {
+            "text": "Dikelilingi oleh sorakan yang bergemuruh bagai guntur―― \nSeorang diri, aku mengepalkan tinjuku dengan sangat erat.",
+            "choice_data_list": [
+                "<size=40>(Jadi, inilah \"Buena Vista\" yang sekarang...)</size>"
+            ]
+        },
+        {
+            "text": "Begitu kuat, seolah-olah ditunjukkan tepat di depan mata. Sampai aku benar-benar merasakannya. Kalau dipikir lagi―― waktu itu juga sama."
+        },
+        {
+            "text": "Saat keseharianku di akademi pelatihan yang kumasuki setelah belajar mati-matian, ternyata jauh lebih berat dan keras dari yang kubayangkan. Aku cuma terus terpuruk dan berjuang setengah mati.",
+            "choice_data_list": [
+                "<size=39>(Seakan mimpiku menjadi Trainer begitu jauh)</size>"
+            ]
+        },
+        {
+            "text": "Ketika sadar―― aku sudah berdiri di depan gerbang akademi yang selalu kuimpikan. Sembari meratapi akan kelengahan diriku sendiri, mataku malah sibuk mencari dirinya."
+        },
+        {
+            "text": "Tapi, saat itu. Tiba-tiba terdengar gemuruh sorak-sorai dari arah lapangan――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hahh……Hahh……！\nHAAAAAAAAHH!!!!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ughhhhhhh……！ Anjir～～……！！"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hah, apakah ini yang namanya calon seangkatanku...? \nTaruhan ini mulai jadi buruk untukku...!",
+            "choice_data_list": [
+                "Ah...!!"
+            ]
+        },
+        {
+            "text": "……Saling menyemangati? Itu benar-benar mustahil. Di luar akademi, ketika aku melihatnya dari balik pagar pembatas――dia sudah menjadi bunga di puncak gunung yang tak tergapai."
+        },
+        {
+            "text": "Seolah-olah sudah lama meninggalkan diriku yang bahkan diragukan bisa menjadi Trainer... dia mulai bersinar sebagai pelari yang sangat menjanjikan di masa depan.",
+            "choice_data_list": [
+                "<size=39>(Dipikir-pikir...bukannya dulu selalu begitu?)</size>"
+            ]
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Hiks...uhh... Abang, di mana...?\nJangan tinggalin Buu-chan……！！",
+            "choice_data_list": [
+                "Maaf, aku disini kok! Sini, Buena!"
+            ]
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Hiks...uhh... Kakak, di mana...?\nJangan tinggalin Buu-chan……！！",
+            "choice_data_list": [
+                "Maaf, aku disini kok! Sini, Buena!"
+            ]
+        },
+        {
+            "text": "......Aku hanya bisa menggandeng tangannya seperti itu, hanyalah masa lalu yang sangat singkat ketika dia masih sangat kecil."
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Hehe, ahahahah！！ Sini-sini！！\nAyo Abang――…… Eh?"
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Hehe, ahahahah！！ Sini-sini！！\nAyo Kakak――…… Eh?"
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Wah, maaf! Aku lari terlalu kencang.... Harusnya aku larinya lebih pelan lagi, maaf ya.\n",
+            "choice_data_list": [
+                "Tidak, aku saja yang lambat."
+            ]
+        },
+        {
+            "text": "Dia mulai berlari dengan cepat, semakin cepat, dan melesat jauh tanpa batas. Berbeda denganku― dia adalah seorang Umamusume yang terlahir untuk berlari.",
+            "choice_data_list": [
+                "(……Tapi――！！)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, ketemu……！ Fufu, senang bisa bertemu. \nKamu datang menonton balapan eksibisiku ya.",
+            "choice_data_list": [
+                "Ya, aku paham kekuatanmu sekarang.",
+                "Ya, aku paham kekuatanmu sekarang."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Fufu, syukurlah.\nKalau gitu, besok kita benar-benar sudah bisa latihan, kan?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Tujuanmu selama kontrak sementara yang pernah kamu ceritakan――\nyaitu menang di \"Kejuaraan Cabang Kompetisi\", kan?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "...Kita harus berjuang keras, ya. Soalnya, anak-anak yang luar biasa kuat sudah berkumpul di sana――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Di antara mereka, yang paling jadi sorotan adalah Scarlet-chan, yang sudah menjuarai \"Oka-sho\" dan \"Shuka-sho\", hingga berhasil meraih gelar Double Tiara――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Dan meskipun dia seorang Tiara Umamusume, Vodka-chan bahkan jadi pemenang \"Japan Derby\", balapan yang disebut sebagai impian bagi semua Umamusume."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Melawan dua orang yang mewakili era tersebut, kamu akan membuatku \nyang bahkan belum debut ini akan menang lawan mereka. ……kan?",
+            "choice_data_list": [
+                "...Benar, tentu saja.",
+                "...Benar, tentu saja."
+            ]
+        },
+        {
+            "text": "Makanya, aku sampai menunduk minta tolong kepadanya beberapa hari lalu, \n\"Tolong nilai dulu, apa kita beneran harus tekan kontrak ini atau tidak.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Menilai dulu? Ee-to, aku? Ke kamu? Tapi――",
+            "choice_data_list": [
+                "<size=39>...Buena, kamu sering tolak perekrutan, kan?</size>",
+                "<size=39>...Buena, kamu sering tolak perekrutan, kan?</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah! .....Kok tahu?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Kaget tahu. Padahal, aku dengar hari ini adalah hari pertamamu――",
+            "choice_data_list": [
+                "<size=35>Aku tahu. Soalnya kamu Umamusume yang hebat.</size>",
+                "<size=35>Aku tahu. Soalnya kamu Umamusume yang hebat.</size>"
+            ]
+        },
+        {
+            "text": "Makanya, aku langsung tertinggal dalam sekejap.\n......Namun, meskipun begitu, aku tidak bisa menyerah."
+        },
+        {
+            "text": "Sejak hari itu aku melihatnya dari balik pagar. Aku pulang sambil berlari dan menggertakkan gigi karena frustrasi, aku mulai belajar tanpa peduli apa pun. Aku terus belajar dengan mata yang merah."
+        },
+        {
+            "text": "Karena aku ingin mengejarnya. Karena aku ingin berdiri sejajar dengannya. Bukan hanya sekedar 'teman masa kecil'――",
+            "choice_data_list": [
+                "<size=41>(Karena aku ingin, layak dipilih olehnya...!)</size>",
+                "<size=41>(Karena aku ingin, layak dipilih olehnya...!)</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Betul. Suatu hari nanti, aku ingin mencapai pemandangan indah seperti yang pernah ditunjukkan oleh Spe-san."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Oleh karena itu, aku akan memilih Trainer yang paling cocok untuk mencapai hal itu. Itulah yang akan kulakukan."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "......Kalau begitu!\nMulai besok, mohon bantuannya ya, Trainer Sementara-san."
+        }
+    ]
+}

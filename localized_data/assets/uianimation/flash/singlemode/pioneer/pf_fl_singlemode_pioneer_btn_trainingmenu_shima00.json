@@ -1,13 +1,16 @@
 {
     "windows": {
-        "bundle_name": "424BGVKWPUTFAN6L4NBQN6HPX5EK56ZO"
+        "bundle_name": "5QE6OPDKKELWKF4BMNNYSGVAVDLXCMRU"
+    },
+    "android": {
+        "bundle_name": "O2DJU4HHD44EBRDI5BPQC7KVQ5IHCJ4A"
     },
     "data": {
         "motion_parameter_list": {
             "25": {
                 "text_param_list": {
                     "0": {
-                        "text": "Island\nTraining",
+                        "text": "Pelatihan\nPulau",
                         "scale": {
                             "x": 0.8,
                             "y": 0.8,

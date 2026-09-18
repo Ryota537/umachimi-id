@@ -17,7 +17,7 @@
         },
         {
             "text": "Alright, next up is weight training! Ah… uwaah. \nIt's crowded today too. Let's see, is there an \nopen space somewhere…?",
-            "name": "Horsegirl A"
+            "name": "Umamusume A"
         },
         {
             "text": "Excuse me. Would you like to use this machine? \nI'm just finishing up.",
@@ -25,7 +25,7 @@
         },
         {
             "text": "Eh? Are you sure, senpai?! Lucky!! \nIn that case, I'll be using it then!!",
-            "name": "Horsegirl A"
+            "name": "Umamusume A"
         },
         {
             "text": "Yes, please do. Well then, I'll be taking my leave.",
@@ -33,11 +33,11 @@
         },
         {
             "text": "Eh, she's leaving already? That's bad, isn't it? \nDidn't she just get here too?",
-            "name": "Horsegirl C"
+            "name": "Umamusume C"
         },
         {
             "text": "Yeah, maybe she's not feeling well… \nor it might be because she can't push herself too hard, huh?",
-            "name": "Horsegirl B"
+            "name": "Umamusume B"
         },
         {
             "text": "… The 'Mejiro' name has me interested but, as expected, \nthat frail body is really weighing Mejiro Ardan down…",
@@ -119,7 +119,7 @@
         },
         {
             "text": "That… are you really okay with that, Ardan?!",
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "choice_data_list": [
                 "!?"
             ]
@@ -143,11 +143,11 @@
         },
         {
             "text": "But your aptitude is in [Turf, middle distance], I thought! \nI'm not saying it's impossible but, it will be hard to use \nyour full power…!",
-            "name": "Hayakawa Tazuna"
+            "name": "Tazuna Hayakawa"
         },
         {
             "text": "Ardan… if you wait a few months, more Selection Races will be held. \nHow about participating then so you can fully display \nyour true strength―",
-            "name": "Hayakawa Tazuna"
+            "name": "Tazuna Hayakawa"
         },
         {
             "text": "Those [few months] will be extremely important. \n…Tazuna, even you are aware of that, aren't you?",
@@ -155,10 +155,10 @@
         },
         {
             "text": "…!",
-            "name": "Hayakawa Tazuna"
+            "name": "Tazuna Hayakawa"
         },
         {
-            "text": "For Uma Musume, the time that they can shine on the stage is \nextremely precious, and limited. Eventually, everyone will be on \nthe road to a gradual decline.",
+            "text": "For Umamusume, the time that they can shine on the stage is \nextremely precious, and limited. Eventually, everyone will be on \nthe road to a gradual decline.",
             "name": "Mejiro Ardan"
         },
         {
@@ -175,7 +175,7 @@
         },
         {
             "text": "But…!!",
-            "name": "Hayakawa Tazuna"
+            "name": "Tazuna Hayakawa"
         },
         {
             "text": "I truly appreciate your concern, Tazuna. \nHowever, I have already made my decision.",

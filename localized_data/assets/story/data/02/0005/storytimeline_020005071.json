@@ -22,7 +22,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Setiap orang pasti ada saatnya lancar, ada saatnya nggak.\nTapi justru karena kamu udah ngalamin keduanya, makanya kamu bisa sampai sini, Suzuka.",
+      "text": "Setiap orang pasti ada saatnya lancar, ada saatnya nggak.\nTapi justru karena kamu udah ngalamin \nkeduanya, makanya kamu bisa sampai sini, Suzuka",
       "name": "Air Groove"
     },
     {
@@ -38,7 +38,7 @@
       "name": "Air Groove"
     },
     {
-      "text": "Uwaaah~ kayak rival beneran…! \nAbis debutku, apa aku bakal ketemu orang kayak gitu…?",
+      "text": "Uwaaah～ kayak rival beneran…! \nAbis debutku, apa aku bakal ketemu orang kayak gitu…?",
       "name": "Special Week"
     },
     {
@@ -70,8 +70,12 @@
       "name": "Winning Ticket"
     },
     {
-      "text": "Dan dimulailah legenda Spe, cewek yang pengen jadi \n\"gadis kuda #1 Jepang\".",
-      "name": "Trainer Suzuka"
+      "text": "Dan dimulailah legenda Spe, cewek yang pengen jadi \n\"Umamusume #1 Jepang\".",
+      "name": "<username>"
+    },
+    {
+      "text": "Dan dimulailah legenda Spe, cewek yang pengen jadi \n\"Umamusume #1 Jepang\".",
+      "name": "<username>"
     },
     {
       "text": "Iya, kayak gitu deh.",
@@ -86,7 +90,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Fuu~… entah kenapa, pesta abis debut rasanya lebih capek \ndaripada balapannya sendiri.",
+      "text": "Fuu～… entah kenapa, pesta abis debut rasanya lebih capek \ndaripada balapannya sendiri.",
       "name": "Special Week"
     },
     {
@@ -122,7 +126,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Ehehe… Suzuka-san! Liat aja, aku pasti bakal jadi \n\"gadis kuda #1 Jepang\"!",
+      "text": "Ehehe… Suzuka-san! Liat aja, aku pasti bakal jadi \n\"Umamusume #1 Jepang\"!",
       "name": "Special Week"
     },
     {
@@ -170,7 +174,7 @@
       "name": "Penonton A"
     },
     {
-      "text": "Fuu~…",
+      "text": "Fuu～…",
       "name": "Silence Suzuka"
     },
     {
@@ -191,9 +195,18 @@
     },
     {
       "text": "Kondisimu jelas membaik lewat latihan, tinggal tempur dengan sekuat tenaga.",
-      "name": "Trainer Suzuka",
+      "name": "<username>",
       "choice_data_list": [
-        "<size=40>Lihat baik-baik pemandangan itu!</size>"
+        "<size=40>Lihat baik-baik pemandangan itu!</size>",
+                "<size=40>Lihat baik-baik pemandangan itu!</size>"
+      ]
+    },
+      {
+      "text": "Kondisimu jelas membaik lewat latihan, tinggal tempur dengan sekuat tenaga.",
+      "name": "<username>",
+      "choice_data_list": [
+        "<size=40>Lihat baik-baik pemandangan itu!</size>",
+                "<size=40>Lihat baik-baik pemandangan itu!</size>"
       ]
     },
     {
@@ -205,7 +218,7 @@
       "name": "Komentator"
     },
     {
-      "text": "1800m lagi ke finish, gadis kuda mana yang bakal nyampe duluan? \nSemua siap - Start!!",
+      "text": "1800m lagi ke finish, Umamusume mana yang bakal nyampe duluan? \nSemua siap - Start!!",
       "name": "Komentator"
     }
   ]

@@ -14,7 +14,7 @@
             "name": "Silence Suzuka"
         },
         {
-            "text": "Air Groove-san juga ikut, kan? Akhirnya, showdown antara rival~! Aku pasti bakal dukung kamu!",
+            "text": "Air Groove-san juga ikut, kan? Akhirnya, showdown antara rival～! Aku pasti bakal dukung kamu!",
             "name": "Special Week"
         },
         {
@@ -22,7 +22,7 @@
             "name": "Special Week"
         },
         {
-            "text": "Hyaa~… Suzuka-san, kakimu kaku banget kayak papan! Aku harus pijet habis-habisan nih!",
+            "text": "Hyaa～… Suzuka-san, kakimu kaku banget kayak papan! Aku harus pijet habis-habisan nih!",
             "name": "Special Week"
         },
         {
@@ -63,6 +63,10 @@
             "name": "<username>"
         },
         {
+            "text": "(Eh…? A-apa ini…?! Kenapa tiba-tiba gelap…?!)",
+            "name": "<username>"
+        },
+        {
             "text": "Heave-ho, Heave-ho.",
             "name": "???"
         },
@@ -78,12 +82,22 @@
             "text": "D-dimana aku?! Kamu siapa…?!",
             "name": "<username>"
         },
+         {
+            "text": "D-dimana aku?! Kamu siapa…?!",
+            "name": "<username>"
+        },
         {
             "text": "Namaku Agnes Tachyon. Aku cuma pengen ngobrol sebentar, \nmakanya aku ngajak kamu ikut sama aku.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Senyum tipis muncul di bibir gadis kuda bernama Agnes Tachyon ini. \nKarung goni di kaki- apa dia bawa aku pakai itu?",
+            "text": "Senyum tipis muncul di bibir Umamusume bernama Agnes Tachyon ini. \nKarung goni di kaki- apa dia bawa aku pakai itu?",
+            "choice_data_list": [
+                "Terlalu mencurigakan…!"
+            ]
+        },
+         {
+            "text": "Senyum tipis muncul di bibir Umamusume bernama Agnes Tachyon ini. \nKarung goni di kaki- apa dia bawa aku pakai itu?",
             "choice_data_list": [
                 "Terlalu mencurigakan…!"
             ]
@@ -100,8 +114,12 @@
             "text": "Ngobrol sama kita?",
             "name": "<username>"
         },
+         {
+            "text": "Ngobrol sama kita?",
+            "name": "<username>"
+        },
         {
-            "text": "Iya. Pernah nggak, kamu mikir sebentar soal eksistensi \"gadis kuda\"?",
+            "text": "Iya. Pernah nggak, kamu mikir sebentar soal eksistensi \"Umamusume\"?",
             "name": "Agnes Tachyon"
         },
         {
@@ -109,11 +127,15 @@
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Gadis kuda masih punya banyak misteri tersembunyi. Aku pengen mengungkap misteri itu, makanya aku terus teliti tentang mereka.",
+            "text": "Umamusume masih punya banyak misteri tersembunyi. Aku pengen mengungkap misteri itu, makanya aku terus teliti tentang mereka.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "…misteri gadis kuda dan hubungan mereka dengan manusia?",
+            "text": "…misteri Umamusume dan hubungan mereka dengan manusia?",
+            "name": "<username>"
+        },
+         {
+            "text": "…misteri Umamusume dan hubungan mereka dengan manusia?",
             "name": "<username>"
         },
         {
@@ -121,7 +143,7 @@
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Kalau dia terus begini dan sempurnain gaya itu, bisa bikin gadis kuda lainnya berkembang ke tahap berikutnya.",
+            "text": "Kalau dia terus begini dan sempurnain gaya itu, bisa bikin Umamusume lainnya berkembang ke tahap berikutnya.",
             "name": "Agnes Tachyon"
         },
         {
@@ -149,15 +171,15 @@
             "name": "<username>"
         },
         {
-            "text": "Gadis kuda adalah makhluk hidup yang membawa banyak \"perasaan\" saat lari.",
+            "text": "Umamusume adalah makhluk hidup yang membawa banyak \"perasaan\" saat lari.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Di alun-alun tengah, ada patung 3 Dewi. Konon, itu tempat gadis kuda mewarisi \"perasaan\" itu.",
+            "text": "Di alun-alun tengah, ada patung 3 Dewi. Konon, itu tempat Umamusume mewarisi \"perasaan\" itu.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Sebagai peneliti, mungkin kamu pikir ini nggak masuk akal, tapi aku sendiri, aku gadis kuda-",
+            "text": "Sebagai peneliti, mungkin kamu pikir ini nggak masuk akal, tapi aku sendiri, aku Umamusume-",
             "name": "Agnes Tachyon"
         },
         {
@@ -165,7 +187,7 @@
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Apa yang Agnes Tachyon omongin, mungkin aja itu harapan dan dukungan yang dirasakan gadis kuda…?"
+            "text": "Apa yang Agnes Tachyon omongin, mungkin aja itu harapan dan dukungan yang dirasakan Umamusume…?"
         },
         {
             "text": "Tidak, maaf… itu bukan inti masalah. Tapi kalau iya, rencanaku agak meleset.",
@@ -180,7 +202,7 @@
             ]
         },
         {
-            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi itu di luar batas kemampuan gadis kuda.",
+            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi itu di luar batas kemampuan Umamusume.",
             "name": "Agnes Tachyon"
         },
         {
@@ -195,15 +217,19 @@
             "name": "<username>"
         },
         {
+            "text": "…akan gagal. Maksudmu begitu?",
+            "name": "<username>"
+        },
+        {
             "text": "Aku nggak tau. Aku cuma spekulasi satu kemungkinan. Apakah ada batas, aku juga nggak tau.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Seperti aku bilang tadi, gadis kuda penuh misteri. Kalau bikin kalian nggak nyaman, aku minta maaf.",
+            "text": "Seperti aku bilang tadi, Umamusume penuh misteri. Kalau bikin kalian nggak nyaman, aku minta maaf.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Bagaimanapun, mengenai gaya lari luar biasa kalian berdua- Aku berharap tinggi kalian tunjukin tahap selanjutnya dari gadis kuda.",
+            "text": "Bagaimanapun, mengenai gaya lari luar biasa kalian berdua- Aku berharap tinggi kalian tunjukin tahap selanjutnya dari Umamusume.",
             "name": "Agnes Tachyon"
         },
         {
@@ -218,13 +244,13 @@
             "text": "Silence Suzuka latihan dengan tekun."
         },
         {
-            "text": "Isi latihannya kelihatan normal, nggak beda sama gadis kuda biasa."
+            "text": "Isi latihannya kelihatan normal, nggak beda sama Umamusume biasa."
         },
         {
             "text": "Tapi gaya larinya nggak normal, unik. Apa yang nunggu di ujung jalur itu-"
         },
         {
-            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi di luar batas gadis kuda.",
+            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi di luar batas Umamusume.",
             "name": "Agnes Tachyon"
         },
         {
@@ -236,11 +262,15 @@
             "name": "<username>"
         },
         {
+            "text": "Oke, tanjakan dan lari lurus nggak masalah.",
+            "name": "<username>"
+        },
+        {
             "text": "Lalu, aku pamit dulu.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Gaya lari Silence Suzuka adalah gaya ideal bagi gadis kuda."
+            "text": "Gaya lari Silence Suzuka adalah gaya ideal bagi Umamusume."
         },
         {
             "text": "Gaya lari yang nggak bisa dicapai orang lain, tapi cuma dia yang bisa-"
@@ -249,8 +279,12 @@
             "text": "(Apa ini artinya dia bakal tembus batas…?)",
             "name": "<username>"
         },
+         {
+            "text": "(Apa ini artinya dia bakal tembus batas…?)",
+            "name": "<username>"
+        },
         {
-            "text": "Sedikit rasa nggak enak mulai muncul di hati, aku coba keras-keras nggak mikirin itu."
+            "text": "Sedikit rasa nggak enak mulai muncul di hati, \naku coba keras-keras nggak mikirin itu."
         }
     ]
 }

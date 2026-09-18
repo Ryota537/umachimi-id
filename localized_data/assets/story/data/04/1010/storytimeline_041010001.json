@@ -2,13 +2,13 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Today is a [Selection Race]. A full-scale event for Uma Musume \nthat will heavily influence their future prospects."
+            "text": "Today is a [Selection Race]. A full-scale event for Umamusume \nthat will heavily influence their future prospects."
         },
         {
-            "text": "Gathered on the course were several up-and-coming \nUma Musume, all were the same in that they were fired \nup, aiming for their debut… However-"
+            "text": "Gathered on the course were several up-and-coming \nUmamusume, all were the same in that they were fired \nup, aiming for their debut… However-"
         },
         {
-            "text": "Wooow, there are alot of people here! \nIt's almost like we're having a party~!!",
+            "text": "Wooow, there are alot of people here! \nIt's almost like we're having a party～!!",
             "name": "Taiki Shuttle"
         },
         {
@@ -21,14 +21,14 @@
         },
         {
             "text": "Eh?! M-me…? I'll have to decline…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Oh, is that so? Too bad, so sad, \nmaybe next time then.",
             "name": "Taiki Shuttle"
         },
         {
-            "text": "-There was an Uma Musume who stood out, in a different way."
+            "text": "-There was an Umamusume who stood out, in a different way."
         },
         {
             "text": "Taiki Shuttle, is it?… She's got talent but, \nthat way she can't seem to stand still is concerning.",
@@ -57,7 +57,7 @@
             "name": "Taiki Shuttle"
         },
         {
-            "text": "What's this?! Taiki Shuttle is starting to slow down!! \nShe keeps getting passed by the others~!!",
+            "text": "What's this?! Taiki Shuttle is starting to slow down!! \nShe keeps getting passed by the others～!!",
             "name": "Commentator"
         },
         {
@@ -76,14 +76,14 @@
         },
         {
             "text": "Uuu… my head is spinning…",
-            "name": "Timid-looking Horsegirl",
+            "name": "Timid-looking Umamusume",
             "choice_data_list": [
                 "(Wasn't she in the race with Taiki…?)"
             ]
         },
         {
             "text": "Kyaa…!",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "It looked like she was in bad shape, she stumbled \nand looked like she was about to collapse. In a \npanic, I was about to run up to her when-"
@@ -101,7 +101,7 @@
         },
         {
             "text": "Eh…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Like a gust of win, with startling speed Taiki Shuttle ran up \nbeside her, and splendidly caught her in her arms…!"
@@ -112,7 +112,7 @@
         },
         {
             "text": "Ehh, eh, eh? Taiki Shuttle-san…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "You didn't look too good during the race either. \nPushing yourself too hard is a no no! Don't do it!",
@@ -120,7 +120,7 @@
         },
         {
             "text": "Y-you noticed…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Yes, of course!",
@@ -132,7 +132,7 @@
         },
         {
             "text": "Huh…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Okay!…it's an emergency! \nComing throuuuuuuuugh!",
@@ -140,24 +140,24 @@
         },
         {
             "text": "Hyaaaaaaaaa-?!",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
-            "text": "Once again, she took off with amazing speed! With speed like that \nit's hard to believe she's carrying another Uma Musume…!"
+            "text": "Once again, she took off with amazing speed! With speed like that \nit's hard to believe she's carrying another Umamusume…!"
         },
         {
             "text": "I was really curious, so without thinking I followed after them-"
         },
         {
-            "text": "It's good that it wasn't anything to worry about! \nMake sure to take care~!",
+            "text": "It's good that it wasn't anything to worry about! \nMake sure to take care～!",
             "name": "Taiki Shuttle"
         },
         {
             "text": "Yeah! Thank you Taiki-san, see you later…!",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
-            "text": "See you~!!",
+            "text": "See you～!!",
             "name": "Taiki Shuttle"
         },
         {
@@ -181,7 +181,7 @@
             "name": "Taiki Shuttle"
         },
         {
-            "text": "Yahoooooooo!! Okay okay, \nof course it's okay!! I'm so happy~~~~~!!!",
+            "text": "Yahoooooooo!! Okay okay, \nof course it's okay!! I'm so happy～～～～～!!!",
             "name": "Taiki Shuttle",
             "choice_data_list": [
                 "Ehh, wait a-"
@@ -196,7 +196,7 @@
             "name": "Taiki Shuttle"
         },
         {
-            "text": "The barbeque I make is a masterpiece, you know~!",
+            "text": "The barbeque I make is a masterpiece, you know～!",
             "name": "Taiki Shuttle",
             "choice_data_list": [
                 "No, like I said-"

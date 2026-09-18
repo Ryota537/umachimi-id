@@ -102,7 +102,7 @@
       "name": "Mejiro Bright"
     },
     {
-      "text": "Semua ini berkat Ryan-oneesama yang selalu menyemangatiku sebagai teman setim. \nAku benar-benar berterima kasih.",
+      "text": "Semua ini berkat Ryan-oneesama yang selalu \nmenyemangatiku sebagai teman setim. \nAku benar-benar berterima kasih.",
       "name": "Mejiro Bright"
     },
     {
@@ -188,7 +188,7 @@
       "text": "Untuk merayakan awal babak baru, bersama anggota tim, \nkami datang ke kuil untuk kunjungan pertama Tahun Baru."
     },
     {
-      "text": "Maaf ya udah nunggu lama! Aku udah doain semua hal dengan sungguh-sungguh!",
+      "text": "Maaf ya udah nunggu lama! Aku udah doain \nsemua hal dengan sungguh-sungguh!",
       "name": "Special Week"
     },
     {
@@ -200,6 +200,10 @@
       "name": "Silence Suzuka"
     },
     {
+      "text": "Tapi jangan cuma ngandelin doa ya. \nKamu sendiri juga harus usaha beneran.",
+      "name": "<username>"
+    },
+     {
       "text": "Tapi jangan cuma ngandelin doa ya. \nKamu sendiri juga harus usaha beneran.",
       "name": "<username>"
     },
@@ -227,7 +231,7 @@
       "name": "Komentator"
     },
     {
-      "text": "\"Derby Uma Musume\" Special Week finis 3 panjang kuda di belakang, posisi 2!",
+      "text": "\"Derby Umamusume\" Special Week finis 3 panjang kuda di belakang, posisi 2!",
       "name": "Komentator"
     },
     {
@@ -235,7 +239,7 @@
       "name": "Komentator"
     },
     {
-      "text": "Uma Musume Classic, El Condor Pasa, di antara kumpulan juara di [Japan Cup], \nsukses raih kemenangan gemilang!",
+      "text": "Umamusume Classic, El Condor Pasa, di antara kumpulan juara di [Japan Cup], \nsukses raih kemenangan gemilang!",
       "name": "Komentator"
     },
     {
@@ -273,6 +277,10 @@
       "text": "…kenapa Suzuka, ada apa?",
       "name": "<username>"
     },
+     {
+      "text": "…kenapa Suzuka, ada apa?",
+      "name": "<username>"
+    },
     {
       "text": "Ah… nggak, nggak ada apa-apa…",
       "name": "Silence Suzuka"
@@ -290,7 +298,11 @@
       "name": "<username>"
     },
     {
-      "text": "Makanya aku kepikiran mau bikin target Spe di musim semi adalah [Spring Tenno Sho].",
+      "text": "Makanya aku kepikiran mau \nbikin target Spe di musim semi adalah [Spring Tenno Sho].",
+      "name": "<username>"
+    },
+      {
+      "text": "Makanya aku kepikiran mau \nbikin target Spe di musim semi adalah [Spring Tenno Sho].",
       "name": "<username>"
     },
     {
@@ -307,11 +319,11 @@
     },
     {
       "text": "McQueen-chan sama Rice-san, mereka berdua keren banget pas menang～…",
-      "name": "Gadis kuda A"
+      "name": "Umamusume A"
     },
     {
       "text": "Iya, iya! Aku dari dulu ngefans sama mereka!",
-      "name": "Gadis kuda B"
+      "name": "Umamusume B"
     },
     {
       "text": "E-ehehe…",
@@ -334,7 +346,7 @@
       "name": "<username>"
     },
     {
-      "text": "Iya! Targetnya \"Menang di Tenno Sho\"! \nTargetnya \"Uma Musume nomor 1 Jepang\"～!",
+      "text": "Iya! Targetnya \"Menang di Tenno Sho\"! \nTargetnya \"Umamusume nomor 1 Jepang\"～!",
       "name": "Special Week"
     },
     {

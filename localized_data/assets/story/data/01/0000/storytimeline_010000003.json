@@ -5,15 +5,15 @@
             "text": "The day after I watched \nthe race with Tazuna—"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Once again… Welcome, Trainer-san! \nThis is the Japan Horsegirl \nTraining Center Academy.",
+            "name": "Tazuna Hayakawa",
+            "text": "Once again… Welcome, Trainer-san! \nThis is the Japan Umamusume \nTraining Center Academy.",
             "color_text_info_list": [
-                "Japan Horsegirl \nTraining Center Academy"
+                "Japan Umamusume \nTraining Center Academy"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "This is Japan's premier horsegirl\ntraining organization, where girls who\ndream of entering the world of racing\ngather!"
+            "name": "Tazuna Hayakawa",
+            "text": "This is Japan's premier Umamusume\ntraining organization, where girls who\ndream of entering the world of racing\ngather!"
         },
         {
             "name": "???",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Hey, Principal Akikawa…! \nDon't scare us like that!",
             "color_text_info_list": [
                 "Akikawa"
@@ -50,25 +50,25 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Your expectations!! Please use your \nskills to make your horsegirls' \ndreams come true, together!"
+            "text": "Your expectations!! Please use your \nskills to make your Umamusume' \ndreams come true, together!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "What the horsegirls at this academy\naspire to is… their greatest stage as\nrunners; the Twinkle Series.",
+            "name": "Tazuna Hayakawa",
+            "text": "What the Umamusume at this academy\naspire to is… their greatest stage as\nrunners; the Twinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "It's your job as trainer to help \nyour horsegirl. To teach her! To \nguide her! To support her!"
+            "text": "It's your job as trainer to help \nyour Umamusume. To teach her! To \nguide her! To support her!"
         },
         {
             "name": "Chairwoman Akikawa",
             "text": "And more! Endeavor to live up \nto that trainer badge on your chest!!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Well then, without further ado… let's\nget to training, Trainer <username>!"
         }
     ]

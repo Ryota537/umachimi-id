@@ -2,8 +2,8 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Haa, haa……I need to hurry, otherwise the teacher will get mad~! \nOf all times, it had to be my turn to take the trash out……!",
-            "name": "Classmate Uma Musume"
+            "text": "Haa, haa……I need to hurry, otherwise the teacher will get mad～! \nOf all times, it had to be my turn to take the trash out……!",
+            "name": "Classmate Umamusume"
         },
         {
             "text": "Wah! ……Whoa. What's wrong? \nYou look really worried.",
@@ -11,7 +11,7 @@
         },
         {
             "text": "Class Rep Top Road! Sorry, I was in a hurry…… \nEarlier, the teacher called for me since I have an interview soon……",
-            "name": "Classmate Uma Musume"
+            "name": "Classmate Umamusume"
         },
         {
             "text": "Ah, in that case, I'll throw the trash away! \nGo ahead and head to the teacher!",
@@ -19,7 +19,7 @@
         },
         {
             "text": "Eh!? ……Really? Then……can I ask you to do it? \nI'll definitely make it up to you later!",
-            "name": "Classmate Uma Musume"
+            "name": "Classmate Umamusume"
         },
         {
             "text": "Ahaha, you don't need to thank me. Something like this'll \nbe over in an instant! Do your best in the interview!",
@@ -73,7 +73,7 @@
             "name": "Crow"
         },
         {
-            "text": "Hiiii!! \n……~~~~~~",
+            "text": "Hiiii!! \n……～～～～～～",
             "name": "Narita Top Road",
             "choice_data_list": [
                 "Are you……bad with crows?",
@@ -108,7 +108,7 @@
             "name": "Narita Top Road"
         },
         {
-            "text": "Aaah~, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!",
+            "text": "Aaah～, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!",
             "name": "Narita Top Road",
             "choice_data_list": [
                 "This isn't a big deal though……"

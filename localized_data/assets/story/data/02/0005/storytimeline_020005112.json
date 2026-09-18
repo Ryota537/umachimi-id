@@ -13,11 +13,11 @@
             "text": "[Takarazuka Kinen] sebentar lagi - Silence Suzuka latihan dengan tekun untuk persiapan panggung besar itu."
         },
         {
-            "text": "Hyaaa~, kecepatannya gila dari awal! \nSeperti biasa, larinya Suzuka keren banget…!",
+            "text": "Hyaaa～, kecepatannya gila dari awal! \nSeperti biasa, larinya Suzuka keren banget…!",
             "name": "Special Week"
         },
         {
-            "text": "Hal yang nggak bisa ditiru siapa pun, yang cuma bisa disebut lari seperti mimpi oleh gadis kuda…! \nAku udah deg-degan cuma nonton!",
+            "text": "Hal yang nggak bisa ditiru siapa pun, yang cuma bisa disebut lari seperti mimpi oleh Umamusume…! \nAku udah deg-degan cuma nonton!",
             "name": "Mejiro McQueen"
         },
         {
@@ -34,17 +34,17 @@
             "text": "Di situ, Silence Suzuka menendang tanah dengan kuat, mempercepat langkahnya."
         },
         {
-            "text": "Fuwaaa~! Kecepatannya terus meningkat!",
+            "text": "Fuwaaa～! Kecepatannya terus meningkat!",
             "name": "Special Week"
         },
         {
-            "text": "Seolah-olah Silence Suzuka menunjukkan lari seperti mimpi itu untuk bikin fans, gadis kuda lain, bahkan dirinya sendiri, terkesima."
+            "text": "Seolah-olah Silence Suzuka menunjukkan lari seperti mimpi itu untuk bikin fans, Umamusume lain, bahkan dirinya sendiri, terkesima."
         },
         {
             "text": "Setiap kali dia lari, Silence Suzuka terus berkembang. \nKalau gini terus, sampai mana ya dia bisa pergi?"
         },
         {
-            "text": "Gaya lari yang kalian tuju itu masih misterius. \nBisa jadi itu di luar batas kemampuan gadis kuda.",
+            "text": "Gaya lari yang kalian tuju itu masih misterius. \nBisa jadi itu di luar batas kemampuan Umamusume.",
             "name": "Agnes Tachyon"
         },
         {
@@ -60,6 +60,10 @@
             "name": "Special Week"
         },
         {
+            "text": "Eh… uh. \nNggak, nggak apa-apa…",
+            "name": "<username>"
+        },
+         {
             "text": "Eh… uh. \nNggak, nggak apa-apa…",
             "name": "<username>"
         },
@@ -83,12 +87,16 @@
             "text": "…Ah, iya… betul.",
             "name": "<username>"
         },
+         {
+            "text": "…Ah, iya… betul.",
+            "name": "<username>"
+        },
         {
             "text": "…?",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Sejak hari Agnes Tachyon ngomong sama aku, aku mulai nyari dokumen tentang cedera gadis kuda lain."
+            "text": "Sejak hari Agnes Tachyon ngomong sama aku, aku mulai nyari dokumen tentang cedera Umamusume lain."
         },
         {
             "text": "Kondisi saat itu kayak gimana, dan situasinya seperti apa saat itu—"
@@ -125,7 +133,11 @@
             "name": "<username>"
         },
         {
-            "text": "(Artinya, buat gadis kuda, cedera itu kekhawatiran yang selalu ada…)",
+            "text": "(Artinya, buat Umamusume, cedera itu kekhawatiran yang selalu ada…)",
+            "name": "<username>"
+        },
+         {
+            "text": "(Artinya, buat Umamusume, cedera itu kekhawatiran yang selalu ada…)",
             "name": "<username>"
         },
         {
@@ -154,6 +166,17 @@
             "text": "(Nggak, salah… dengan kondisi sekarang, kamu pasti menang [Takarazuka Kinen]. \nMalah, kayaknya nggak ada balapan yang nggak bisa kamu menangin)",
             "name": "<username>"
         },
+         {
+            "text": "(Nggak, salah… dengan kondisi sekarang, kamu pasti menang [Takarazuka Kinen]. \nMalah, kayaknya nggak ada balapan yang nggak bisa kamu menangin)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Aku pengen bilang larinya luar biasa, pasti menang. \nTapi bisa jadi terlalu overwhelming, sampai aku…)",
+            "name": "<username>",
+            "choice_data_list": [
+                "Suzuka…"
+            ]
+        },
         {
             "text": "(Aku pengen bilang larinya luar biasa, pasti menang. \nTapi bisa jadi terlalu overwhelming, sampai aku…)",
             "name": "<username>",
@@ -175,6 +198,10 @@
             "text": "Aku nggak boleh nahan gadis ini yang kejar mimpinya dengan serius, \ntapi pikiranku kacau, bahkan nggak bisa jawab dengan benar."
         },
         {
+            "text": "Yah… nggak ada alasan penting sih. \nSelain itu, kamu kan ada balapan… kaki dan badan nggak masalah, kan?",
+            "name": "<username>"
+        },
+         {
             "text": "Yah… nggak ada alasan penting sih. \nSelain itu, kamu kan ada balapan… kaki dan badan nggak masalah, kan?",
             "name": "<username>"
         },
@@ -210,6 +237,10 @@
             "name": "Silence Suzuka"
         },
         {
+            "text": "Trainer-san, di [Takarazuka Kinen], ayo kita lihat \"pemandangan\" itu bareng-bareng.",
+            "name": "Silence Suzuka"
+        },
+        {
             "text": "\"Pemandangan\" yang aku kejar bareng Silence Suzuka-"
         },
         {
@@ -233,6 +264,20 @@
         {
             "text": "Hah…? Penglihatanku…",
             "name": "<username>"
+        },
+        {
+            "text": "Dengan pemikiran itu, aku kembali meneliti \ndata-data di hadapanku, namun——"
+        },
+        {
+            "name": "<username>",
+            "text": "Apa ini...? Pandanganku tiba-tiba gelap...."
+        },
+        {
+            "text": "Apa ini...? Pandanganku tiba-tiba gelap....",
+            "name": "<username>"
+        },
+        {
+            "text": "※( Entah di isi apa emng begitu dari sananya )"
         }
     ]
 }

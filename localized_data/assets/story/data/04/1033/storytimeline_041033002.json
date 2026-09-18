@@ -1,242 +1,242 @@
 {
-    "no_wrap": true,
+    "title": "Gemini yang Retak",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Hmm Hmm H-Hmm♪ \nWaktunya mandi!",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Hum hum huhumm～♪ Wak-tu-nya man-di～――"
         },
         {
-            "text": "Punya waktu?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Tunggu."
         },
         {
-            "text": "Wah! Ayabe-san! Ada perlu apa?",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Wah! Ayabe-san! Ada perlu apa?"
         },
         {
-            "text": "Ikat rambutmu… ketinggalan di kasurku.\nJangan tinggalkan barangmu di tempat yang aneh.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Ikat rambutmu…… ketinggalan di kasurku. \nJangan tinggalkan barangmu di tempat yang aneh."
         },
         {
-            "text": "Waduh!? Aku jatuhin, ya? Gak sadar. Tapi makasih \nsudah membawakan ke sini♪ Akan repot kalau aku tidak pakai setelah mandi!",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Eh!? Aku jatuhin, ya? Kayaknya gak sadar. Makasih udah bawain ke sini♪ \nBisa repot nanti kalau aku gak pakai sehabis mandi～!"
         },
         {
-            "text": "Ah, benar juga! Mumpung kamu di sini, mau gak mandi bareng, Ayabe-san?",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Ah, benar juga! Mumpung kamu datang ke sini, gimana kalau Ayabe-san juga sekalian ikut mandi bareng?"
         },
         {
-            "text": "Walau kamu biasanya suka shower-an, tapi kan Balapan Seleksimu sudah dekat.\nMandi sambil rileks bisa bikin badan enakan♪",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Walau kamu biasanya suka shower-an, tapi Balapan Seleksimu udah dekat. Merendam tubuh buat relaksasi itu bagus banget loh♪"
         },
         {
-            "text": "Enggak…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "……Enggak."
         },
         {
-            "text": "Oalah. …Ehh, percuma ya.",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Walah ……Emm～, percuma ya."
         },
         {
-            "text": "Haa… Dia kenapa sih?…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Haa……kenapa sih dia selalu begitu?"
         },
         {
-            "text": "Tapi…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "……Tapi――"
         },
         {
-            "text": "<i>Kalau kamu masih di sini… apakah…?</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(Mungkinkah, kamu juga akan seperti itu? \nSeandainya…… kamu berada di sampingku saat ini……)</i>"
         },
         {
-            "text": "Apakah kamu akan… memperlakukanku seperti dia?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Apakah kamu juga…… akan bersikap manja seperti itu padaku?"
         },
         {
-            "text": "\"Lihat dua bintang itu? Aku dengar mereka akan selalu bersama selamanya,\nkarena ada seseorang yang memohon pada Tuhan untuk itu.\"",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "\"Lihat dua bintang itu? Katanya, mereka akan selalu bersama selamanya…… karena mereka sudah memohon pada Tuhan.\""
         },
         {
-            "text": "\"Hehe… Suatu hari nanti, saat aku jadi bintang… \naku juga berharap kita bisa bersama selamanya.\"",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "\"Hehe……Kalau suatu hari nanti, aku jadi bintang…… \nAkankah kita selalu bersama selamanya?\""
         },
         {
-            "text": "Kadang aku merasa ada seseorang bersamaku. Perasaan ini ada sejak aku bisa ingat.\nSejak kecil aku merasakan kehadiran seseorang, terasa bisa kugapai, tapi tak terlihat.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "――Bahkan sejak sebelum aku memiliki kesadaran, sesekali aku merasa seolah ada seseorang berada di sisiku. Terasa begitu dekat seakan bisa kusentuh, namun terpisah jarak yang tak bisa kujangkau."
         },
         {
-            "text": "Saat aku menatap bintang merah itu, perasaan itu semakin kuat.\nJadi sejak kecil, aku sering berbicara dengan seseorang itu di bawah langit berbintang.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Saat aku menatap bintang merah itu, perasaan itu terasa semakin kuat. \nKarena itulah, sejak kecil aku sering berbicara dengan seseorang itu di bawah langit berbintang."
         },
         {
-            "text": "Setiap kali ibuku melihatku melakukan itu… dia hanya tertawa canggung.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Melihat diriku yang seperti itu――Ibu sering kali tersenyum dengan raut wajah bingung dan sedih."
         },
         {
-            "text": "Ngh… Nghhh…",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Muuu～nn…… mu-mu-muuu～nn……"
         },
         {
-            "text": "Kalau begini kamu bisa kebablasan tidur…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "…………Besok, kamu bisa telat bangunnya."
         },
         {
-            "text": "Tapi entah kenapa aku gak bisa tidur! Ayabe-san, \nkamu pernah ngalamin juga kan, malam-malam kayak gitu?",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Habisnya, entah kenapa aku jadi gak bisa tidur～ \nAyabe-san juga pernah ngalamin malam-malam kayak gini, kan?"
         },
         {
-            "text": "Iya, tapi alasannya mungkin beda sama punyamu.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Pernah, tapi penyebabnya mungkin berbeda denganmu."
         },
         {
-            "text": "Gitu ya? Hmm, yaudah… Kalau kita sama-sama gak bisa tidur, gimana kalau ngobrol aja?",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Masa sih～? ……Hei-hei, karena kita sama-sama gak bisa tidur, gimana kalau kita ngobrol sebentar aja?"
         },
         {
-            "text": "Gak. Tidur sana.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Gak. Tidur sana."
         },
         {
-            "text": "Ehh!? Tapi aku kesepian banget, Ayabe-san!",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Ehh～!? Tapi aku kesepian banget, Ayabe-san～!"
         },
         {
-            "text": "Diam.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Berisik."
         },
         {
-            "text": "Enggak mau! Kalau kamu gak mau ngomong sama aku, \nya aku bakal nyelinap ke tempat tidurmu!",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Gak, enggak mau～! Kalau kamu gak mau diajak ngobrol, aku bakalan nyelinap ke tempat tidurmu!"
         },
         {
-            "text": "Jangan coba-coba…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Jangan pernah lakuin itu…… \n…………Haaa."
         },
         {
-            "text": "Emang mau ngobrol apa?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Mau ngobrol…… tentang apa?"
         },
         {
-            "text": "Yay♪ Hmm, gimana kalau hal yang simpel aja…",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Yeay♪ Kalau gitu～, kita mulai dari yang umum aja deh……"
         },
         {
-            "text": "Ah, gimana kalau tentang pertama kali kamu lari?\nAku pengen banget dengar kenanganmu♪",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Aku mau dengar cerita kenangan Ayabe-san♪\nTentang \"Momen saat pertama kali berlari\" !"
         },
         {
-            "text": "Pertama kali…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Pertama kali――"
         },
         {
-            "text": "Iya iya! Kamu kan kuda pacu yang hebat banget!\nJadi tolong ikutkan putrimu, Admire Vega-chan, ke dalam \"Pony Cup!\"",
-            "name": "Panitia Balapan"
+            "name": "Panitia Balapan",
+            "text": "――Iya iya! Saya tahu betul kehebatan prestasi Nyonya dulu! \nJadi tolong, daftarkan putrimu Admire Vega-chan ke \"Pony Cup!\""
         },
         {
-            "text": "Jadi itu yang kalian mau… Hey, Ayabe-chan… apa pendapatmu ten―",
-            "name": "Ibu Ayabe"
+            "name": "Ibu Ayabe",
+            "text": "Jadi begitu ya…… \nHey, Ayabe-chan, bagaimana menurutmu――"
         },
         {
-            "text": "Aku mau ikut!!",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "Aku mau ikut!!"
         },
         {
-            "text": "Aku benar-benar mau ikut!! Aku… ingin berlari!!",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "Aku ingin ikut, benar-benar mau ikut!! \nAku……benar-benar, ingin berlari!!"
         },
         {
-            "text": "Aku masih ingat… Biasanya aku anak yang pendiam, tapi saat itu aku menjawab dengan \nbegitu bersemangat… seakan aku dirasuki seseorang. Ibuku terlihat kaget, bahkan takut.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Aku masih ingat. Ibuku tampak terkejut, karena dulu aku anak yang pendiam, tapi tiba-tiba menjawab dengan bersemangat \"seperti orang yang berbeda\"."
         },
         {
-            "text": "\"Pony Cup!\" Hehe, jadi itu balapan pertamamu!",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "\"Pony Cup\" ! \nHehe, jadi ternyata itu balapan pertamamu ya!"
         },
         {
-            "text": "Gimana rasanya waktu akhirnya kamu bisa balapan? Apa yang kamu rasakan?",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Gimana rasanya, saat kamu mencoba berlari? \nApa yang kamu rasain waktu itu?"
         },
         {
-            "text": "Apa yang kurasakan…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………… \nYang aku rasakan――"
         },
         {
-            "text": "Aroma rumput… bikin jantungku berdegup kencang.\nSensasi luar biasa saat melaju ke depan, membelah angin.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Aroma rumput…… membuat dadaku berdebar gembira. \nSensasi nikmat saat membelah angin, dan terus melesat maju ke depan."
         },
         {
-            "text": "Jantungku berdebar kencang seperti alarm. Pemandangan di \nbelakang saat ku berlari begitu indah, bagaikan meteor…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Jantungku berdebar kencang seperti alarm. Pemandangan yang kian melesat ke belakang, dengan keindahan yang berkilau layaknya bintang jatuh."
         },
         {
-            "text": "Ayabe-san…",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Ayabe-san――"
         },
         {
-            "text": "Apa…?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "……Apa?"
         },
         {
-            "text": "Eh! Ah, maaf!\nSoalnya…Ehmm.",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Eh! Ah, maaf! Entah kenapa……Ehmm."
         },
         {
-            "text": "\"Seperti dirasuki…?\"",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "…… \"Seperti orang yang berbeda\" ?"
         },
         {
-            "text": "Eh…?",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "……Eh?"
         },
         {
-            "text": "Yay, yaay! Mama, aku menang! Ehe! Ehehe…",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "Yay, berhasil! Ibu, aku menang! Aku menang! \nEhe, Ehehe……hiks."
         },
         {
-            "text": "Hik… H-Hah? K-kenapa aku… I-ini… air mata…? Kenapa… gak berhenti…!?",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "Hiks……hiks…… E-eh? Aku, kenapa……? \nKenapa, air mata ini……? Gak mau, berhenti……!"
         },
         {
-            "text": "Kenapa…? Aku… aku tuh… aku benar-benar suka balapan. \nAku… sangat senang, rasanya seperti aku bukan diriku lagi…?",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "Kenapa ya……? Anu, soalnya, berlari itu sangat menyenangkan. \nAku……sangat senang, rasanya seperti aku merasa seperti bukan diriku sendiri……?"
         },
         {
-            "text": "Tapi tetap saja… aku merasa sangat sepi… dan sedih… \nMama… kenapa… kenapa ini terjadi padaku…?",
-            "name": "Ayabe Kecil"
+            "name": "Ayabe Kecil",
+            "text": "Tapi kenapa…… aku merasa sangat kesepian…… dan sedih. \nIbu……kenapa? kenapa, bisa begini……?"
         },
         {
-            "text": "Ayabe-chan…",
-            "name": "Ibu Ayabe"
+            "name": "Ibu Ayabe",
+            "text": "Ah, Ayabe-chan……"
         },
         {
-            "text": "Obrolannya selesai… Lagi pula, kepala asrama akan segera berkeliling.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "…………Obrolannya selesai. Sebentar lagi, ketua asrama akan berkeliling."
         },
         {
-            "text": "Ah, tapi, Ayabe-san…",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "Ah, tapi, Ayabe-san――"
         },
         {
-            "text": "Aku bilang cukup. Sekarang tidur…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Sudah cukup. ……Sekarang, tidur."
         },
         {
-            "text": "Baiklah…",
-            "name": "Curren Chan"
+            "name": "Curren Chan",
+            "text": "……Baiklah."
         },
         {
-            "text": "Beberapa waktu setelah \"Pony Cup\" ibuku akhirnya memberitahuku.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Beberapa waktu setelah \"Pony Cup\" ibuku akhirnya memberitahuku."
         },
         {
-            "text": "Sayang, sebenarnya kamu punya… seorang adik perempuan.",
-            "name": "Ibu Ayabe"
+            "name": "Ibu Ayabe",
+            "text": "Sebenarnya, kamu itu punya……seorang adik perempuan."
         },
         {
-            "text": "Dia adalah… kembaranmu. Tapi… dia lahir dalam keadaan meninggal.",
-            "name": "Ibu Ayabe"
+            "name": "Ibu Ayabe",
+            "text": "Dia adalah, saudara kembarmu. ……Tapi, dia tak sempat terlahir untuk melihat dunia ini."
         }
-    ],
-    "title": "Gemini yang Retak"
+    ]
 }
